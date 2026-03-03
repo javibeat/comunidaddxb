@@ -254,6 +254,39 @@ img {
   max-width: 700px;
 }
 
+.hero-alert {
+  display: inline-block;
+  background: rgba(45, 15, 15, 0.4);
+  border: 1px solid rgba(239, 51, 64, 0.3);
+  padding: 0.8rem 1.25rem;
+  border-radius: 12px;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin-bottom: 2rem;
+  max-width: 650px;
+  animation: pulseBorder 3s infinite ease-in-out;
+}
+
+.hero-alert strong {
+  color: #ef3340;
+  font-weight: 600;
+}
+
+@keyframes pulseBorder {
+  0% {
+    border-color: rgba(239, 51, 64, 0.2);
+  }
+
+  50% {
+    border-color: rgba(239, 51, 64, 0.6);
+    box-shadow: 0 0 15px rgba(239, 51, 64, 0.15);
+  }
+
+  100% {
+    border-color: rgba(239, 51, 64, 0.2);
+  }
+}
+
 .hero-badge {
   display: inline-flex;
   align-items: center;
