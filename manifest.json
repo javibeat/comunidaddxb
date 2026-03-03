@@ -1,0 +1,11 @@
+{
+  "name": "Comunidad Hispana en EAU",
+  "short_name": "HispanoEAU",
+  "description": "Guía esencial para hispanohablantes en Emiratos Árabes Unidos: emergencias, apoyo psicológico, consulados.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#d4a853",
+  "lang": "es",
+  "icons": []
+}

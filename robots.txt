@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hispanoeau.com/sitemap.xml
