@@ -268,6 +268,55 @@ img {
   margin-bottom: 2rem;
 }
 
+.hero-flags-pill {
+  display: inline-flex;
+  align-items: center;
+  background: var(--bg-glass);
+  border: 1px solid var(--bg-glass-border);
+  padding: 0.6rem 1.25rem;
+  border-radius: 3rem;
+  margin-bottom: 2rem;
+  gap: 1rem;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+}
+
+.flags-svg {
+  width: 42px;
+  height: 28px;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: var(--transition-medium);
+}
+
+.flags-svg:hover {
+  transform: scale(1.08) translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+.flags-heart {
+  font-size: 1.1rem;
+  animation: heartBeat 2.5s ease-in-out infinite;
+  display: inline-block;
+}
+
+@keyframes heartBeat {
+
+  0%,
+  100% {
+    transform: scale(1);
+  }
+
+  15% {
+    transform: scale(1.2);
+  }
+
+  30% {
+    transform: scale(1);
+  }
+}
+
 .hero-badge .pulse {
   width: 8px;
   height: 8px;
@@ -277,8 +326,17 @@ img {
 }
 
 @keyframes pulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.5; transform: scale(1.5); }
+
+  0%,
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.5;
+    transform: scale(1.5);
+  }
 }
 
 .hero h1 {
@@ -296,8 +354,13 @@ img {
 }
 
 @keyframes shineText {
-  0% { background-position: 0% center; }
-  100% { background-position: 200% center; }
+  0% {
+    background-position: 0% center;
+  }
+
+  100% {
+    background-position: 200% center;
+  }
 }
 
 .hero p {
