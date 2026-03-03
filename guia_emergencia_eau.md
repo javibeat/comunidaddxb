@@ -70,7 +70,10 @@
 ## 📱 Cuentas Oficiales y de Noticias (X / Instagram)
 * **Gobierno de EAU:** @uaegov
 * **MOI (Min. Interior EAU):** @moiuae
+* **Emirates News Agency (WAM):** @wamnews
+* **Ministerio de Defensa EAU:** @modgovae
 * **Dubai Media Office:** @dubaimediaoffice / @DXBMediaOffice
+* **Aviación Civil (GCAA):** @gcaauae
 * **NCEMA (Gestión de Crisis EAU):** @ncemauae
 * **CNN en Español:** @CNNEE
 * **Agencia EFE:** @EFEnoticias
