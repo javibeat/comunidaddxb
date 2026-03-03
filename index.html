@@ -14,7 +14,7 @@
 
   <!-- Security -->
   <meta http-equiv="Content-Security-Policy"
-    content="default-src 'self'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; script-src 'self'; img-src 'self' data:; connect-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none';">
+    content="default-src 'self'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src https://fonts.gstatic.com; script-src 'self'; img-src 'self' data:; connect-src 'self' https://api.counterapi.dev; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none';">
   <meta http-equiv="X-Content-Type-Options" content="nosniff">
   <meta name="referrer" content="strict-origin-when-cross-origin">
 
@@ -914,8 +914,13 @@
   <!-- ====== FOOTER ====== -->
   <footer class="footer" id="footer">
     <div class="container">
-      <p>
-        Hecho con <span class="footer-heart">❤️</span> para la comunidad hispanohablante en Emiratos Árabes Unidos.<br>
+      <div class="support-counter-wrap fade-in">
+        <button id="support-btn" class="support-btn">❤️ Gracias / Comunidad Unida</button>
+        <p class="counter-text"><span id="support-count" class="counter-number">...</span> personas han apoyado esta
+          guía</p>
+      </div>
+
+      <p style="margin-top: 2rem;">Hecho con <span class="footer-heart">❤️</span> para la comunidad hispana en EAU.<br>
         La información se verifica periódicamente con fuentes oficiales.<br>
         <span class="update-date">Última actualización: 3 de marzo de 2026</span>
       </p>
