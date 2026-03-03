@@ -79,4 +79,45 @@
       }
     });
   }
+
+  // --- Calendar Reminder ---
+  const reminderBtn = document.getElementById('reminder-btn');
+  if (reminderBtn) {
+    reminderBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+
+      // Calculate dates for tomorrow
+      const tomorrow = new Date();
+      tomorrow.setDate(tomorrow.getDate() + 1);
+
+      const formatICSDate = (date) => {
+        return date.toISOString().replace(/[-:]/g, '').split('.')[0] + 'Z';
+      };
+
+      const start = formatICSDate(tomorrow);
+      tomorrow.setHours(tomorrow.getHours() + 1);
+      const end = formatICSDate(tomorrow);
+
+      const icsData = `BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Comunidad Hispana EAU//ES
+BEGIN:VEVENT
+SUMMARY:Inscripción Consular - Embajada de España (EAU)
+DESCRIPTION:Recuerda realizar tu alta como residente o no residente en el Consulado de España en Abu Dhabi.\\n\\nEnlace directo:\\nhttps://www.exteriores.gob.es/Embajadas/abudhabi/es/ServiciosConsulares/Paginas/index.aspx?scco=Emiratos+Árabes+Unidos&scd=2&scca=Inscripción+Consular&scs=Alta+de+residente+y+de+no+residente
+DTSTART:${start}
+DTEND:${end}
+URL:https://hispanoeau.com
+END:VEVENT
+END:VCALENDAR`;
+
+      const blob = new Blob([icsData], { type: 'text/calendar;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.setAttribute('download', 'Recordatorio_Inscripcion_Consular.ics');
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    });
+  }
 })();
