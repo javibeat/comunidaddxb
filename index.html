@@ -696,62 +696,87 @@
     </div>
   </section>
 
-  <!-- ====== AEROPUERTOS EN DIRECTO ====== -->
-  <section class="section airports" id="aeropuertos">
+  <!-- ====== ESPACIO AÉREO Y VUELOS ====== -->
+  <section class="section airspace" id="aeropuertos">
     <div class="container">
       <div class="fade-in">
-        <span class="section-label">✈️ Vuelos en directo</span>
-        <h2 class="section-title">Estado de vuelos en tiempo real</h2>
-        <p class="section-subtitle">Consulta salidas y llegadas en directo desde los sitios web oficiales de los
-          aeropuertos.</p>
+        <span class="section-label">✈️ Espacio Aéreo y Vuelos</span>
+        <h2 class="section-title">Estado de Aeropuertos y Espacio Aéreo</h2>
+        <p class="section-subtitle">Consulta siempre las fuentes oficiales para el estado del espacio aéreo en EAU y la
+          apertura de aeropuertos.</p>
       </div>
 
-      <div class="airports-grid">
-        <!-- Dubai DXB -->
-        <div class="airport-card fade-in" id="airport-dxb">
-          <div class="airport-name">Dubai International Airport</div>
-          <div class="airport-code">DXB</div>
-          <div class="airport-links">
-            <a href="https://www.dubaiairports.ae/flights" target="_blank" rel="noopener noreferrer" id="dxb-flights">
-              🛫 Vuelos en DXB (Llegadas y Salidas)
+      <div class="airspace-alert fade-in">
+        🚨 <strong>Importante:</strong> Durante alertas de seguridad, el espacio aéreo puede cerrarse temporalmente.
+        <strong>NO vayas al aeropuerto</strong> hasta que tu aerolínea específica publique un comunicado oficial o te
+        contacte directamente confirmando la salida de tu vuelo.
+      </div>
+
+      <div class="airspace-grid">
+        <!-- Autoridades -->
+        <div class="airspace-card fade-in" id="airspace-gcaa">
+          <div class="airspace-card-icon">🇦🇪</div>
+          <div class="airspace-card-title">Autoridades de Aviación</div>
+          <div class="airspace-card-content">
+            <p>Son los únicos que comunican oficialmente el cierre o apertura del espacio aéreo mediante NOTAMs.</p>
+            <ul class="airspace-list">
+              <li><a href="https://www.gcaa.gov.ae" target="_blank" rel="noopener noreferrer">🌐 GCAA (General Civil
+                  Aviation Authority)</a></li>
+              <li><a href="https://x.com/gcaauae" target="_blank" rel="noopener noreferrer">𝕏 @gcaauae (Actualizaciones
+                  rápidas)</a></li>
+              <li><a href="https://x.com/NCEMAUAE" target="_blank" rel="noopener noreferrer">𝕏 @NCEMAUAE (Gestión de
+                  Crisis)</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Aerolíneas -->
+        <div class="airspace-card fade-in" id="airspace-airlines">
+          <div class="airspace-card-icon">🛩️</div>
+          <div class="airspace-card-title">Aerolíneas Principales</div>
+          <div class="airspace-card-content">
+            <p>Consulta el estado operativo de tu vuelo directamente con la aerolínea.</p>
+            <ul class="airspace-list">
+              <li><a href="https://www.emirates.com/ae/english/help/flying-to-and-from-dubai/" target="_blank"
+                  rel="noopener noreferrer">🔴 Emirates (Estado de vuelos)</a></li>
+              <li><a href="https://www.etihad.com/en-ae/manage/flight-tracker" target="_blank"
+                  rel="noopener noreferrer">🟡 Etihad Airways (Flight Tracker)</a></li>
+              <li><a href="https://www.flydubai.com/en/plan/flight-status" target="_blank" rel="noopener noreferrer">🔵
+                  FlyDubai (Flight Status)</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Aeropuertos -->
+        <div class="airspace-card fade-in" id="airspace-airports">
+          <div class="airspace-card-icon">🏢</div>
+          <div class="airspace-card-title">Paneles de Aeropuertos</div>
+          <div class="airspace-card-content">
+            <p>Salidas y llegadas en tiempo real de los aeropuertos clave.</p>
+            <ul class="airspace-list">
+              <li><a href="https://www.dubaiairports.ae/flights" target="_blank" rel="noopener noreferrer">DXB - Dubai
+                  International</a></li>
+              <li><a href="https://www.zayedinternationalairport.ae/en/" target="_blank" rel="noopener noreferrer">AUH -
+                  Zayed International (Abu Dhabi)</a></li>
+              <li><a href="https://www.sharjahairport.ae/en/traveller/" target="_blank" rel="noopener noreferrer">SHJ -
+                  Sharjah Airport</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Rastreo global -->
+        <div class="airspace-card fade-in" id="airspace-tracker">
+          <div class="airspace-card-icon">🌍</div>
+          <div class="airspace-card-title">Rastreo en directo</div>
+          <div class="airspace-card-content">
+            <p>Observa el tráfico aéreo mundial en tiempo real. <em>Nota: puede haber un ligero retraso respecto a los
+                NOTAMs oficiales.</em></p>
+            <a href="https://www.flightradar24.com" target="_blank" rel="noopener noreferrer" class="tracker-btn">
+              📍 Abrir Flightradar24
             </a>
           </div>
         </div>
 
-        <!-- Abu Dhabi AUH -->
-        <div class="airport-card fade-in" id="airport-auh">
-          <div class="airport-name">Zayed International Airport</div>
-          <div class="airport-code">AUH — Abu Dhabi</div>
-          <div class="airport-links">
-            <a href="https://www.zayedinternationalairport.ae/en/" target="_blank" rel="noopener noreferrer"
-              id="auh-flights">
-              🛫 Vuelos en AUH (Zayed Int.)
-            </a>
-          </div>
-        </div>
-
-        <!-- Sharjah SHJ -->
-        <div class="airport-card fade-in" id="airport-shj">
-          <div class="airport-name">Sharjah Airport</div>
-          <div class="airport-code">SHJ</div>
-          <div class="airport-links">
-            <a href="https://www.sharjahairport.ae/en/traveller/" target="_blank" rel="noopener noreferrer"
-              id="shj-flights">
-              🛫 Vuelos en Sharjah (SHJ)
-            </a>
-          </div>
-        </div>
-
-        <!-- Flightradar -->
-        <div class="airport-card fade-in" id="airport-tracker">
-          <div class="airport-name">Rastreo global de vuelos</div>
-          <div class="airport-code">FLIGHTRADAR24</div>
-          <div class="airport-links">
-            <a href="https://www.flightradar24.com" target="_blank" rel="noopener noreferrer" id="flightradar-link">
-              🌍 Rastrear cualquier vuelo
-            </a>
-          </div>
-        </div>
       </div>
     </div>
   </section>
