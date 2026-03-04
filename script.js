@@ -147,6 +147,13 @@ END:VCALENDAR`;
       return 'Hace ' + Math.floor(diffDays / 30) + ' mes' + (Math.floor(diffDays / 30) > 1 ? 'es' : '');
     }
 
+    // Format date helper (e.g. "4 mar 2026")
+    function formatDate(dateStr) {
+      const months = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
+      const d = new Date(dateStr + 'T00:00:00');
+      return d.getDate() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear();
+    }
+
     // Category labels
     function categoryLabel(cat) {
       const labels = {
@@ -174,7 +181,7 @@ END:VCALENDAR`;
           <div class="news-card-title">${item.title}</div>
           <div class="news-card-summary">${item.summary}</div>
           <div class="news-card-footer">
-            <span class="news-date">🕐 ${timeAgo(item.date)}</span>
+            <span class="news-date">🕐 ${timeAgo(item.date)} <span class="news-date-exact">(${formatDate(item.date)})</span></span>
             <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="news-link">
               🔗 Ver fuente oficial →
             </a>
@@ -277,5 +284,19 @@ END:VCALENDAR`;
         newsSlides.innerHTML = '<div class="news-empty">Consulta las fuentes oficiales para mantenerte informado.</div>';
       });
   }
-})();
 
+  // --- Back to Top ---
+  const backToTop = document.getElementById('backToTop');
+  if (backToTop) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 600) {
+        backToTop.classList.add('visible');
+      } else {
+        backToTop.classList.remove('visible');
+      }
+    });
+    backToTop.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+})();

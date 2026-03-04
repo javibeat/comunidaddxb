@@ -552,6 +552,195 @@ img {
   transform: translateY(-2px);
 }
 
+/* --- Context Block --- */
+.context-block {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 0.75rem;
+  padding: 1rem 1.5rem;
+  margin-bottom: 2rem;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.context-block p {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  margin-bottom: 0;
+}
+
+.context-block strong {
+  color: var(--accent-gold-light);
+}
+
+/* --- Action Checklist --- */
+.action-checklist {
+  background: rgba(34, 211, 153, 0.04);
+  border: 1px solid rgba(34, 211, 153, 0.2);
+  border-radius: var(--card-radius);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+  text-align: left;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.action-checklist-title {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 700;
+  color: #34d399;
+  margin-bottom: 0.75rem;
+}
+
+.action-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.action-list li {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  padding-left: 1.4rem;
+  position: relative;
+}
+
+.action-list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #34d399;
+  font-weight: 700;
+}
+
+.action-list li strong {
+  color: var(--text-primary);
+}
+
+/* --- Save Numbers Box --- */
+.save-numbers-box {
+  background: rgba(239, 68, 68, 0.06);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  border-radius: 0.75rem;
+  padding: 0.85rem 1.25rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-align: center;
+}
+
+.save-numbers-box strong {
+  color: var(--emergency-red);
+}
+
+/* --- Section Microcopy --- */
+.section-microcopy {
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: 1.5rem;
+  font-style: italic;
+}
+
+/* --- Consular Tip --- */
+.consular-tip {
+  background: rgba(96, 165, 250, 0.06);
+  border: 1px solid rgba(96, 165, 250, 0.15);
+  border-radius: 0.75rem;
+  padding: 0.85rem 1.2rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-top: 0.5rem;
+}
+
+.consular-tip strong {
+  color: var(--embassy-blue);
+}
+
+/* --- Pets Crisis Box --- */
+.pets-crisis-box {
+  background: rgba(239, 68, 68, 0.06);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  border-radius: 0.75rem;
+  padding: 0.85rem 1.25rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.pets-crisis-box strong {
+  color: var(--emergency-red);
+}
+
+/* --- Footer Disclaimer --- */
+.footer-disclaimer {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 0.75rem;
+  padding: 1rem 1.25rem;
+  margin-top: 2rem;
+}
+
+.footer-disclaimer p {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.footer-disclaimer strong {
+  color: var(--text-secondary);
+}
+
+/* --- Back to Top --- */
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(212, 168, 83, 0.9);
+  color: #0a0a0f;
+  border: none;
+  font-size: 1.3rem;
+  font-weight: 700;
+  cursor: pointer;
+  z-index: 999;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.back-to-top:hover {
+  transform: translateY(-3px);
+  background: var(--accent-gold-light);
+}
+
+/* --- News Date Exact --- */
+.news-date-exact {
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  margin-left: 0.25rem;
+}
+
 /* ============================================
    FEATURED NEWS CAROUSEL
    ============================================ */
