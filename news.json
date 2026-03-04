@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "source": "WAM — Agencia de Noticias de Emiratos",
+        "sourceUrl": "https://www.wam.ae/es",
+        "sourceIcon": "📡",
+        "category": "gobierno",
+        "title": "EAU refuerza su compromiso con la ayuda humanitaria internacional",
+        "summary": "Los Emiratos Árabes Unidos continúan liderando esfuerzos de ayuda humanitaria a nivel mundial, con nuevas iniciativas de apoyo a comunidades afectadas.",
+        "date": "2026-03-04",
+        "link": "https://www.wam.ae/es",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "NCEMA — Gestión de Crisis y Emergencias",
+        "sourceUrl": "https://www.ncema.gov.ae",
+        "sourceIcon": "🛡️",
+        "category": "seguridad",
+        "title": "NCEMA publica guía actualizada de preparación ante emergencias",
+        "summary": "La Autoridad Nacional de Gestión de Crisis y Emergencias actualiza sus protocolos de seguridad para residentes en EAU.",
+        "date": "2026-03-03",
+        "link": "https://www.ncema.gov.ae",
+        "priority": "alta"
+    },
+    {
+        "id": 3,
+        "source": "Policía de Dubai",
+        "sourceUrl": "https://www.dubaipolice.gov.ae",
+        "sourceIcon": "🚔",
+        "category": "seguridad",
+        "title": "Alerta: Intentos de estafa suplantando a empleados de Gestión de Crisis",
+        "summary": "Se han detectado estafadores que se hacen pasar por empleados oficiales pidiendo datos de UAE Pass y Emirates ID. No comparta información confidencial por teléfono.",
+        "date": "2026-03-02",
+        "link": "https://x.com/DubaiPoliceHQ/status/2028240436632916220",
+        "priority": "alta"
+    },
+    {
+        "id": 4,
+        "source": "Dubai Media Office",
+        "sourceUrl": "https://mediaoffice.ae",
+        "sourceIcon": "📰",
+        "category": "gobierno",
+        "title": "Dubai anuncia nuevas medidas de apoyo a la comunidad",
+        "summary": "El Gobierno de Dubai implementa nuevas iniciativas para fortalecer el bienestar social y la cohesión comunitaria en el emirato.",
+        "date": "2026-03-01",
+        "link": "https://mediaoffice.ae",
+        "priority": "normal"
+    },
+    {
+        "id": 5,
+        "source": "Ministerio del Interior — MOI",
+        "sourceUrl": "https://www.moi.gov.ae",
+        "sourceIcon": "🛡️",
+        "category": "avisos",
+        "title": "MOI recuerda la importancia de verificar fuentes de información",
+        "summary": "El Ministerio del Interior insta a los residentes a verificar siempre la información a través de canales oficiales y evitar difundir rumores.",
+        "date": "2026-03-01",
+        "link": "https://www.moi.gov.ae",
+        "priority": "normal"
+    }
+]

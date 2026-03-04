@@ -120,4 +120,162 @@ END:VCALENDAR`;
       document.body.removeChild(link);
     });
   }
+
+  // --- Featured News Carousel ---
+  const newsSlides = document.getElementById('newsSlides');
+  const newsDots = document.getElementById('newsDots');
+  const prevBtn = document.getElementById('newsPrev');
+  const nextBtn = document.getElementById('newsNext');
+  const newsContainer = document.getElementById('featured-news');
+
+  if (newsSlides && newsDots && prevBtn && nextBtn) {
+    let currentSlide = 0;
+    let newsItems = [];
+    let autoSlideTimer = null;
+
+    // Time-ago helper
+    function timeAgo(dateStr) {
+      const now = new Date();
+      const date = new Date(dateStr + 'T00:00:00');
+      const diffMs = now - date;
+      const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+      if (diffDays === 0) return 'Hoy';
+      if (diffDays === 1) return 'Ayer';
+      if (diffDays < 7) return 'Hace ' + diffDays + ' días';
+      if (diffDays < 30) return 'Hace ' + Math.floor(diffDays / 7) + ' semana' + (Math.floor(diffDays / 7) > 1 ? 's' : '');
+      return 'Hace ' + Math.floor(diffDays / 30) + ' mes' + (Math.floor(diffDays / 30) > 1 ? 'es' : '');
+    }
+
+    // Category labels
+    function categoryLabel(cat) {
+      const labels = {
+        gobierno: 'Gobierno',
+        seguridad: 'Seguridad',
+        comunidad: 'Comunidad',
+        avisos: 'Avisos'
+      };
+      return labels[cat] || cat;
+    }
+
+    // Render a single news card
+    function renderCard(item) {
+      const priorityBadge = item.priority === 'alta'
+        ? '<span class="news-priority-badge">⚡ Prioritaria</span>'
+        : '';
+
+      return `
+        <div class="news-card">
+          <div class="news-card-meta">
+            <span class="news-category" data-cat="${item.category}">${categoryLabel(item.category)}</span>
+            <span class="news-source-name">${item.sourceIcon} ${item.source}</span>
+            ${priorityBadge}
+          </div>
+          <div class="news-card-title">${item.title}</div>
+          <div class="news-card-summary">${item.summary}</div>
+          <div class="news-card-footer">
+            <span class="news-date">🕐 ${timeAgo(item.date)}</span>
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="news-link">
+              🔗 Ver fuente oficial →
+            </a>
+          </div>
+        </div>
+      `;
+    }
+
+    // Render dots
+    function renderDots() {
+      newsDots.innerHTML = '';
+      newsItems.forEach((_, i) => {
+        const dot = document.createElement('span');
+        dot.className = 'news-dot' + (i === currentSlide ? ' active' : '');
+        dot.addEventListener('click', () => goToSlide(i));
+        newsDots.appendChild(dot);
+      });
+    }
+
+    // Go to slide
+    function goToSlide(index) {
+      currentSlide = index;
+      newsSlides.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
+      // Update dots
+      newsDots.querySelectorAll('.news-dot').forEach((dot, i) => {
+        dot.classList.toggle('active', i === currentSlide);
+      });
+      resetAutoSlide();
+    }
+
+    // Nav
+    function nextSlide() {
+      goToSlide((currentSlide + 1) % newsItems.length);
+    }
+
+    function prevSlide() {
+      goToSlide((currentSlide - 1 + newsItems.length) % newsItems.length);
+    }
+
+    // Auto-slide
+    function startAutoSlide() {
+      autoSlideTimer = setInterval(nextSlide, 8000);
+    }
+
+    function resetAutoSlide() {
+      clearInterval(autoSlideTimer);
+      startAutoSlide();
+    }
+
+    // Pause on hover
+    if (newsContainer) {
+      newsContainer.addEventListener('mouseenter', () => {
+        clearInterval(autoSlideTimer);
+      });
+      newsContainer.addEventListener('mouseleave', () => {
+        startAutoSlide();
+      });
+    }
+
+    // Button listeners
+    prevBtn.addEventListener('click', prevSlide);
+    nextBtn.addEventListener('click', nextSlide);
+
+    // Keyboard nav
+    document.addEventListener('keydown', (e) => {
+      // Only respond if the news section is in viewport
+      if (!newsContainer) return;
+      const rect = newsContainer.getBoundingClientRect();
+      const inView = rect.top < window.innerHeight && rect.bottom > 0;
+      if (!inView) return;
+
+      if (e.key === 'ArrowLeft') prevSlide();
+      if (e.key === 'ArrowRight') nextSlide();
+    });
+
+    // Fetch and render news
+    fetch('news.json')
+      .then(res => {
+        if (!res.ok) throw new Error('No se pudieron cargar las noticias');
+        return res.json();
+      })
+      .then(data => {
+        // Sort: alta priority first, then by date descending
+        newsItems = data.sort((a, b) => {
+          if (a.priority === 'alta' && b.priority !== 'alta') return -1;
+          if (a.priority !== 'alta' && b.priority === 'alta') return 1;
+          return new Date(b.date) - new Date(a.date);
+        });
+
+        if (newsItems.length === 0) {
+          newsSlides.innerHTML = '<div class="news-empty">No hay noticias destacadas en este momento.</div>';
+          return;
+        }
+
+        newsSlides.innerHTML = newsItems.map(renderCard).join('');
+        renderDots();
+        startAutoSlide();
+      })
+      .catch(() => {
+        newsSlides.innerHTML = '<div class="news-empty">Consulta las fuentes oficiales para mantenerte informado.</div>';
+      });
+  }
 })();
+
