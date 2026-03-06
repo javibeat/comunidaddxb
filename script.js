@@ -221,20 +221,64 @@ END:VCALENDAR`;
       goToSlide((currentSlide - 1 + newsItems.length) % newsItems.length);
     }
 
-    // Auto-slide
-    function startAutoSlide() {
-      autoSlideTimer = setInterval(nextSlide, 8000);
+    // --- Fetch and render news ---
+    function loadNews() {
+      fetch('news.json?t=' + Date.now()) // Cache busting
+        .then(res => {
+          if (!res.ok) throw new Error('No se pudieron cargar las noticias');
+          return res.json();
+        })
+        .then(data => {
+          // Sort: alta priority first, then by date descending
+          const sorted = data.sort((a, b) => {
+            if (a.priority === 'alta' && b.priority !== 'alta') return -1;
+            if (a.priority !== 'alta' && b.priority === 'alta') return 1;
+            return new Date(b.date) - new Date(a.date);
+          });
+
+          // Only re-render if data has changed (simple stringify check)
+          if (JSON.stringify(sorted) === JSON.stringify(newsItems)) return;
+
+          newsItems = sorted;
+
+          if (newsItems.length === 0) {
+            newsSlides.innerHTML = '<div class="news-empty">No hay noticias destacadas en este momento.</div>';
+            return;
+          }
+
+          newsSlides.innerHTML = newsItems.map(renderCard).join('');
+          renderDots();
+
+          // Update Ticker with most recent important news
+          const latest = newsItems[0];
+          const ticker1 = document.getElementById('ticker-item-1');
+          const ticker2 = document.getElementById('ticker-item-2');
+
+          if (ticker1 && latest) {
+            ticker1.innerHTML = `<strong>ÚLTIMA HORA (${timeAgo(latest.date)}):</strong> ${latest.title}. <a href="${latest.link}" target="_blank" rel="noopener noreferrer">Ver fuente oficial</a>`;
+          }
+          if (ticker2 && newsItems[1]) {
+            const second = newsItems[1];
+            ticker2.innerHTML = `<strong>RECUERDA:</strong> ${second.title}. 💡 Verifica siempre antes de compartir.`;
+          }
+
+          if (!autoSlideTimer) startAutoSlide();
+        })
+        .catch(() => {
+          if (newsItems.length === 0) {
+            newsSlides.innerHTML = '<div class="news-empty">Consulta las fuentes oficiales para mantenerte informado.</div>';
+          }
+        });
     }
 
     function resetAutoSlide() {
-      clearInterval(autoSlideTimer);
       startAutoSlide();
     }
 
     // Pause on hover
     if (newsContainer) {
       newsContainer.addEventListener('mouseenter', () => {
-        clearInterval(autoSlideTimer);
+        if (autoSlideTimer) clearInterval(autoSlideTimer);
       });
       newsContainer.addEventListener('mouseleave', () => {
         startAutoSlide();
@@ -257,32 +301,17 @@ END:VCALENDAR`;
       if (e.key === 'ArrowRight') nextSlide();
     });
 
-    // Fetch and render news
-    fetch('news.json')
-      .then(res => {
-        if (!res.ok) throw new Error('No se pudieron cargar las noticias');
-        return res.json();
-      })
-      .then(data => {
-        // Sort: alta priority first, then by date descending
-        newsItems = data.sort((a, b) => {
-          if (a.priority === 'alta' && b.priority !== 'alta') return -1;
-          if (a.priority !== 'alta' && b.priority === 'alta') return 1;
-          return new Date(b.date) - new Date(a.date);
-        });
+    // Initial load
+    loadNews();
 
-        if (newsItems.length === 0) {
-          newsSlides.innerHTML = '<div class="news-empty">No hay noticias destacadas en este momento.</div>';
-          return;
-        }
+    // Auto-refresh data every 5 minutes
+    setInterval(loadNews, 300000);
 
-        newsSlides.innerHTML = newsItems.map(renderCard).join('');
-        renderDots();
-        startAutoSlide();
-      })
-      .catch(() => {
-        newsSlides.innerHTML = '<div class="news-empty">Consulta las fuentes oficiales para mantenerte informado.</div>';
-      });
+    // Auto-slide interval: 6 seconds (more dynamic)
+    function startAutoSlide() {
+      if (autoSlideTimer) clearInterval(autoSlideTimer);
+      autoSlideTimer = setInterval(nextSlide, 6000);
+    }
   }
 
   // --- Back to Top ---
