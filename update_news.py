@@ -14,8 +14,8 @@ def fetch_rss(url):
         return None
 
 def parse_news():
-    # Google News RSS for Emiratos Arabes Unidos in Spanish
-    rss_url = "https://news.google.com/rss/search?q=Emiratos+Arabes+Unidos+when:1d&hl=es-419&gl=US&ceid=US:es-419"
+    # Google News RSS for Emiratos Arabes Unidos restricted strictly to official sources (WAM, NCEMA) in Spanish
+    rss_url = "https://news.google.com/rss/search?q=site:wam.ae+OR+site:ncema.gov.ae+when:1d&hl=es-419&gl=US&ceid=US:es-419"
     xml_data = fetch_rss(rss_url)
     
     if not xml_data:
