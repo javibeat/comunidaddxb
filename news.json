@@ -14,17 +14,41 @@
     {
         "id": 2,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEd6TWVYdS1QNWlSMEYxZXZGdU5NVGRWdndWdi1QVV9LcDhtUWl2UmxmTVNyYTlzSGg0VGFSTUFaYjNjY2tjbEg4RWNwWVlMQnh0TUVtY19jamw1c295RzdoZUhiR3VtYkRwazZEbXJsUkNLMmdJcklGNzFudVZSMzlrWURkN2pncmpnVQ?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlVEeUk4am44MVdYaVA1V2hyV3BWaHlGMVN3NXpMWkJ3STRjX0JiRGg2NkRCSS1SVjRaQi1uZW9KRDl4YWozcWN2Q29Fbk10enJ1YURodzN1SW1ybFdaNGNmckEwRnJORnhlNmhaRXVYQkJON1hqZktnb29hMlNkYnpVbmo4Rml6YnpSNG9DVWx2a044dkE?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Emiratos Árabes Unidos desarrolla una infraestructura avanzada de seguridad alimentaria basada en las mejores prácticas globales, según el ministro de Economía - وكالة وام",
+        "title": "Un informe de la ONU constata la paralización casi total de la navegación en el estrecho de Ormuz - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-04-01",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEd6TWVYdS1QNWlSMEYxZXZGdU5NVGRWdndWdi1QVV9LcDhtUWl2UmxmTVNyYTlzSGg0VGFSTUFaYjNjY2tjbEg4RWNwWVlMQnh0TUVtY19jamw1c295RzdoZUhiR3VtYkRwazZEbXJsUkNLMmdJcklGNzFudVZSMzlrWURkN2pncmpnVQ?oc=5",
+        "date": "2026-04-02",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlVEeUk4am44MVdYaVA1V2hyV3BWaHlGMVN3NXpMWkJ3STRjX0JiRGg2NkRCSS1SVjRaQi1uZW9KRDl4YWozcWN2Q29Fbk10enJ1YURodzN1SW1ybFdaNGNmckEwRnJORnhlNmhaRXVYQkJON1hqZktnb29hMlNkYnpVbmo4Rml6YnpSNG9DVWx2a044dkE?oc=5",
         "priority": "normal"
     },
     {
         "id": 3,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUUzSDUwX195M3Zyb2hOdnBmZWRTeE94MjZLeEc5Z0FoQWN4OV9Sb3R3ejN1TVRmdGlKYkdvbTBiSDc3MXRremtKSGRrOTdkSnhFczFoOGFZbGZMVTZpd3BmdlhwYTI4S3BPcWFrSHg1MDUxZ1RCS205dXhENUxwMVNiQ0xKVUpRV0tyZEw0WnZOVW1J?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Las defensas aéreas de Kuwait interceptan tres misiles y 15 drones en las últimas 24 horas - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-04-01",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUUzSDUwX195M3Zyb2hOdnBmZWRTeE94MjZLeEc5Z0FoQWN4OV9Sb3R3ejN1TVRmdGlKYkdvbTBiSDc3MXRremtKSGRrOTdkSnhFczFoOGFZbGZMVTZpd3BmdlhwYTI4S3BPcWFrSHg1MDUxZ1RCS205dXhENUxwMVNiQ0xKVUpRV0tyZEw0WnZOVW1J?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 4,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHkxem9aZHVmYWdicEJyRmpIOHRkdlNPZjBhWkVyNko4d0hNc1BJc2IwRWc1OFZsalRjalpXWnFCTnVzSnZGZFhjbUZvdTdLV0xpTkREQUQxZjZ3TkhzZnlhWEdJY2xnZUFFR0g5Qks5aHluZ2o1djVmZVZoTHV2Y1hhTzJoc3J2NV9odGF1enNOVUJFZVpDMU0waWRMdw?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Emiratos Árabes Unidos reafirma su respaldo a la comunidad iraní como parte integrante de su tejido social - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-04-02",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHkxem9aZHVmYWdicEJyRmpIOHRkdlNPZjBhWkVyNko4d0hNc1BJc2IwRWc1OFZsalRjalpXWnFCTnVzSnZGZFhjbUZvdTdLV0xpTkREQUQxZjZ3TkhzZnlhWEdJY2xnZUFFR0g5Qks5aHluZ2o1djVmZVZoTHV2Y1hhTzJoc3J2NV9odGF1enNOVUJFZVpDMU0waWRMdw?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 5,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldLcnYxbTExbzhfR1ltZ2N5SlMtdExGOFBkVDNlUVhIazBTazA4eUhSZjBKZk03LVlLbk8xcTJqd05mLTk1Q19mLTNLRlZ4WDFDdWFtT0Q0Tk1zSi1PZnFsU3E0ZFFLTjRhRWxHbUQyT2dhSkU5NEI4OUcxdC1OV0VGdFZpVnNtWXA3MFl2TW0wM2ZSeHRQSzdoV1g2Zw?oc=5",
         "sourceIcon": "📰",
@@ -33,30 +57,6 @@
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-04-01",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldLcnYxbTExbzhfR1ltZ2N5SlMtdExGOFBkVDNlUVhIazBTazA4eUhSZjBKZk03LVlLbk8xcTJqd05mLTk1Q19mLTNLRlZ4WDFDdWFtT0Q0Tk1zSi1PZnFsU3E0ZFFLTjRhRWxHbUQyT2dhSkU5NEI4OUcxdC1OV0VGdFZpVnNtWXA3MFl2TW0wM2ZSeHRQSzdoV1g2Zw?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 4,
-        "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3FoXy1nenFJN2lDREppc2JubkV2Tm1YOUVmY2pvVnNLUnByZDl5RzdUTWZIOS1JaWpzWGZ4TzYxT3k1VXpqY1hpTXhlZE9yTU1yMTNHNzVud24xN3JEZEdJRktxUi1zRTlQaUROTXROY1VBb19NVjhxVFhSeEpHUUZVX0tNZw?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Bin Touq confirma la estabilidad de los precios y el suministro suficiente de bienes estratégicos durante una visita en Abu Dabi - وكالة وام",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-04-01",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3FoXy1nenFJN2lDREppc2JubkV2Tm1YOUVmY2pvVnNLUnByZDl5RzdUTWZIOS1JaWpzWGZ4TzYxT3k1VXpqY1hpTXhlZE9yTU1yMTNHNzVud24xN3JEZEdJRktxUi1zRTlQaUROTXROY1VBb19NVjhxVFhSeEpHUUZVX0tNZw?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 5,
-        "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDRzeVpSdXdaMk05VW9lTS1zcmRUSGtWZ0R1VWNmdTVUY0RFR1QyUnNjdkdZbS0xbWx3U2JIS2pzUU83a0JBUTR5a0VXdWFhWERwN3I1VGMtUHFYYUpkV1lBNVBzTWtBN0ZrRkJHX3ROZnhRYnlBNGZxYUctRXdyNlhHc3I1QTNsNUFTNXd1Tk9idkw5RkdWXw?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El presidente de los EAU recibe una llamada de su homólogo ruso - وكالة وام",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-04-01",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDRzeVpSdXdaMk05VW9lTS1zcmRUSGtWZ0R1VWNmdTVUY0RFR1QyUnNjdkdZbS0xbWx3U2JIS2pzUU83a0JBUTR5a0VXdWFhWERwN3I1VGMtUHFYYUpkV1lBNVBzTWtBN0ZrRkJHX3ROZnhRYnlBNGZxYUctRXdyNlhHc3I1QTNsNUFTNXd1Tk9idkw5RkdWXw?oc=5",
         "priority": "normal"
     }
 ]
