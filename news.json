@@ -2,6 +2,18 @@
     {
         "id": 1,
         "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWczNlpaYUpRbWNWQUpkMkFuRWtNY0FzZHJFdmhRcHZjU2ZZNFlVb1NCYXNaQUNlNll0eXJsbGU5NHRlTy1zYy1Jd2cyV3diLWotMURfdjhuQ252TENTVzlFZ1NnUi15NnZScEMxcGVPM0ozSTNZX2dfYXNHRFgxejlwYXEwdWNhX3B1NExiMWRDNzQ?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Kuwait condena los ataques con drones de Irán y sus aliados contra instalaciones estratégicas - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-04-09",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWczNlpaYUpRbWNWQUpkMkFuRWtNY0FzZHJFdmhRcHZjU2ZZNFlVb1NCYXNaQUNlNll0eXJsbGU5NHRlTy1zYy1Jd2cyV3diLWotMURfdjhuQ252TENTVzlFZ1NnUi15NnZScEMxcGVPM0ozSTNZX2dfYXNHRFgxejlwYXEwdWNhX3B1NExiMWRDNzQ?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjJMUGh4QXJlNkprV2pmamM5SFUteHpkMlpsaGw1anNPdVNnYjFnbG1fSFNaU29Pd2YzY0JIVzRwcTBHMmRnMC0wbGRGZE8tQ0ZtNFpld1pwVndWMWIxTkZTSzBYNEZ5T3B3YjJ4UzZUbGtnNkhxcjc5WENfUjByR3NCbTA2YXZXTWo5cmo2NVZIbU9FcVpaeGdB?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -12,7 +24,7 @@
         "priority": "normal"
     },
     {
-        "id": 2,
+        "id": 3,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDVjVzBET3RaRkM0U1NnSHhEdnJFT19FcDJxZEhibVJqMVlCN09saDRGXzJMT1BtaUNvTHBzcVI4NlNHTkcxNDhEc2kyNkZUU0xGcjVBak9rcUJHOGZxRlNxdk5FbjZuNDBsTldUc0NoT2hjRFZ1VGdDZElRcW9sY2RLSFJvOFVkTUxFQ1JJd1dMM0ExSVE?oc=5",
         "sourceIcon": "📰",
@@ -24,27 +36,15 @@
         "priority": "normal"
     },
     {
-        "id": 3,
-        "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUhCY2hseXRzeldPVFVIbVAyS1FCT3BsVmFHWS1ycU1WTFJoYk9oUktTbVFHM0p4MXRtVVZaMlhFb0JPWFl3NXdlSk5sdGVub3NNMlpyTE1hMF9BSFMtMHZPbmRVeEJWRTdwU2UxODNGaExURmJhSU03YnF1V19DQXNtbGhxX2REMkJvbzN4UzY4SXFm?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El Consejo Empresarial Sirio condena enérgicamente el ataque contra la embajada de Emiratos en Damasco - وكالة وام",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-04-09",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUhCY2hseXRzeldPVFVIbVAyS1FCT3BsVmFHWS1ycU1WTFJoYk9oUktTbVFHM0p4MXRtVVZaMlhFb0JPWFl3NXdlSk5sdGVub3NNMlpyTE1hMF9BSFMtMHZPbmRVeEJWRTdwU2UxODNGaExURmJhSU03YnF1V19DQXNtbGhxX2REMkJvbzN4UzY4SXFm?oc=5",
-        "priority": "normal"
-    },
-    {
         "id": 4,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbndPazRyMVZFcVpRZ1ZQRnJsNl8wa3ZfTGZmQ1VzaHhaWFRVTVN3UGpBNWx5dGxlS19PYUNqTWZYdFFTWU5NTUg1OVQ4bmdIUk5GYXdZU2YyMXBnVXR5VkE1MmNtMW85NDB4U05zcVNOVjBGV19jNUhQakxZc3MxWXk5d1JPLWJ6Sjdkbkl6NDk?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTJua1l0NEpDUlZoR0M2Y3l1dTZpeFdMaXFQYWJOTXBlOS1NRm5HcVNrMnphMGF3MXpaNjZHcEkyUnUxa05ERFNVMEdaNWJOUlJ2QkRjMGJHRW51V2lwcVRxUWtDbU14Uk5uV0w3U0g2SWtxWWtVSzJpOXBhNmM5clVycUtqMS01YUVDUm5OMTkyU2NZX25pUF9qcG0tZw?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Kuwait detecta 14 misiles balísticos y 46 drones en las últimas 24 horas - وكالة وام",
+        "title": "El gobernador del banco central de los EAU se reúne con los consejeros delegados del sector bancario - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-04-09",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbndPazRyMVZFcVpRZ1ZQRnJsNl8wa3ZfTGZmQ1VzaHhaWFRVTVN3UGpBNWx5dGxlS19PYUNqTWZYdFFTWU5NTUg1OVQ4bmdIUk5GYXdZU2YyMXBnVXR5VkE1MmNtMW85NDB4U05zcVNOVjBGV19jNUhQakxZc3MxWXk5d1JPLWJ6Sjdkbkl6NDk?oc=5",
+        "date": "2026-04-10",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTJua1l0NEpDUlZoR0M2Y3l1dTZpeFdMaXFQYWJOTXBlOS1NRm5HcVNrMnphMGF3MXpaNjZHcEkyUnUxa05ERFNVMEdaNWJOUlJ2QkRjMGJHRW51V2lwcVRxUWtDbU14Uk5uV0w3U0g2SWtxWWtVSzJpOXBhNmM5clVycUtqMS01YUVDUm5OMTkyU2NZX25pUF9qcG0tZw?oc=5",
         "priority": "normal"
     },
     {
