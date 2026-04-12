@@ -2,6 +2,30 @@
     {
         "id": 1,
         "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0hKZjhPQUJHaXVvUm1IQlAybHlJUUFfWjluS09VZVpkWlRkck9tNFVtM3V3NmhMSUo5N0FoRExVQmtFQkZxU01yNkdjMEFGT2xyMDROaTFhTGpJS1VpLWlMaVdhMkJMb3FOdG0ySDdNOXdaWWJnb0l0WUZyVUYxQkhIbk4yNWlZcy1kT2JYQnNJTlpvVmpF?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Emiratos Árabes Unidos expresa su decepción por la inacción del Consejo de Seguridad ante la crisis del estrecho de Ormuz - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-04-11",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0hKZjhPQUJHaXVvUm1IQlAybHlJUUFfWjluS09VZVpkWlRkck9tNFVtM3V3NmhMSUo5N0FoRExVQmtFQkZxU01yNkdjMEFGT2xyMDROaTFhTGpJS1VpLWlMaVdhMkJMb3FOdG0ySDdNOXdaWWJnb0l0WUZyVUYxQkhIbk4yNWlZcy1kT2JYQnNJTlpvVmpF?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXozNktfNVhsalp3bWNqbm93SGFsVllOMWRORl82djV6UUc0Y3plaFJSd05SajNLdTRGbVNFN3MyMWk0NjRMaGI2UlRXa3E0bFJoaXR1dWhLaV9OSldYMW5xMDR6cm93SVQ4VklOZ1VCck55Y0hBaXZoUm9EQTZXZllQdERTVUFWV3BXYmRiYW1OV1Q1bWc?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Las autoridades responden a la caída de restos sobre una empresa en Musaffah, Abu Dabi - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-04-11",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXozNktfNVhsalp3bWNqbm93SGFsVllOMWRORl82djV6UUc0Y3plaFJSd05SajNLdTRGbVNFN3MyMWk0NjRMaGI2UlRXa3E0bFJoaXR1dWhLaV9OSldYMW5xMDR6cm93SVQ4VklOZ1VCck55Y0hBaXZoUm9EQTZXZllQdERTVUFWV3BXYmRiYW1OV1Q1bWc?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 3,
+        "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRV90akVmdXBQZm9QR21SMGltZHZxZEJ2WndSM0tyRVpiRFB3SGNWVm83VWJ3QzQ3cVB4Q0FSZFVZX0NVUlJfWGhNbXFqaUxPR2dLa2pRdEU3TTBRcWRUd05JaEtra29HRW40c3JWaFU2SjNfNGhLWU1jcURweml4WWJDV2l1VjQ?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -12,7 +36,19 @@
         "priority": "normal"
     },
     {
-        "id": 2,
+        "id": 4,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanVJbTFzWFQ2WXAtQXhpQU5uV05ocDliOEJsMHlldnlVWFFlY1NBdTFqRDU2d281eVhTLVVrNDZzbThQWUZoLURraUVVMTJOeGhBS2tYa1c5bUpTY2RvWUZVSW9NWE9GMTNwNmJZbnpQNVVuQ3lsdDUxay1vNmNBY3gxZkMtWkNK?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Kuwait condena con firmeza el asalto y los actos de sabotaje contra su consulado en Basora - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-04-11",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanVJbTFzWFQ2WXAtQXhpQU5uV05ocDliOEJsMHlldnlVWFFlY1NBdTFqRDU2d281eVhTLVVrNDZzbThQWUZoLURraUVVMTJOeGhBS2tYa1c5bUpTY2RvWUZVSW9NWE9GMTNwNmJZbnpQNVVuQ3lsdDUxay1vNmNBY3gxZkMtWkNK?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 5,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjlSOTE4aE13QVpGVzdXM2JFcHBTdmxEZE9TRExFM1ZyNkZqdVdEMl9XazlPRHlJS0c4bWhSeVU4NXlzUFhuWHdWS3BoaFI3VVFtWFF6dFJQLS14b3pBVmJ0Z2xxZTdNZzlWZjhIZFJQNXo2ZlhLVjFRTVFOM2FyOUE2NXR0ZXJidjFWSzBKUQ?oc=5",
         "sourceIcon": "📰",
@@ -21,18 +57,6 @@
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-04-11",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjlSOTE4aE13QVpGVzdXM2JFcHBTdmxEZE9TRExFM1ZyNkZqdVdEMl9XazlPRHlJS0c4bWhSeVU4NXlzUFhuWHdWS3BoaFI3VVFtWFF6dFJQLS14b3pBVmJ0Z2xxZTdNZzlWZjhIZFJQNXo2ZlhLVjFRTVFOM2FyOUE2NXR0ZXJidjFWSzBKUQ?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 3,
-        "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUdNa2VxYU5HeGJraTJpdUh1RlBzV2xOekZsaDNtVmVnWmZ0TDFwY2k1aDRHNUdiUkp6VlI2eXdwX2V4S2hjTzRUZ3R3WHRHTmJ3cmwwTzZnUDFaLWdpSV96WEwzdTI1S1dHc3dvLW1Fay1tTjUxd2dsd0FkQmNxU2tKT3J0TF9QX2F5TlozMk5qaWZSd1Q0?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Baréin intercepta y destruye 188 misiles y 468 drones desde el inicio de los ataques iraníes - وكالة وام",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-04-10",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUdNa2VxYU5HeGJraTJpdUh1RlBzV2xOekZsaDNtVmVnWmZ0TDFwY2k1aDRHNUdiUkp6VlI2eXdwX2V4S2hjTzRUZ3R3WHRHTmJ3cmwwTzZnUDFaLWdpSV96WEwzdTI1S1dHc3dvLW1Fay1tTjUxd2dsd0FkQmNxU2tKT3J0TF9QX2F5TlozMk5qaWZSd1Q0?oc=5",
         "priority": "normal"
     }
 ]
