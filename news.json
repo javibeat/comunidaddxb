@@ -2,18 +2,6 @@
     {
         "id": 1,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VUE5xdWhsSUdtRzNfM292OGVDQkdjd2dKTWFBZ09pa0lGa0dOd2xXZTEzZVd4cGhwOG5obl85eTBZdw?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": " - وكالة وام",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-04-28",
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VUE5xdWhsSUdtRzNfM292OGVDQkdjd2dKTWFBZ09pa0lGa0dOd2xXZTEzZVd4cGhwOG5obl85eTBZdw?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 2,
-        "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUJ4Qjl3S3dZWGZGTTRncXltQnF4Q3BLREZ1eU13WlMtcGV4dkVHcXRkeWYyb1NhNm9tSFU1dTBNclNHa1hrcWFxeVY4bWFBajd6ejlwb19wckVtMHRZTHd4WFdCbFFnaVgyMlF6Rl9tV0hSdEVzeTk3TXNHUmVscmk2QkZ0cm5YVHk4?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
