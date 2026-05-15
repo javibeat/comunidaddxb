@@ -2,6 +2,18 @@
     {
         "id": 1,
         "source": "وكالة أنباء الإمارات",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1NTZUFsTWxSelRXSWVmTENNOFZJcGFPU3FCU3l5Qlo3S1RKYmtFQkE0Z0pTeUViaFlPMy1mb0QtbnlMaGtIUnNlTDhYNk5oWWJjMTJIcXpzZkhJbXg3VExiNnVuaUV0NzRqN21jMDU5M3cydlQ1UENXZGk0OUV2SkE5V2xEX3c1N0N6V25UYVY?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "El presidente de Emiratos Árabes Unidos recibe a una delegación de EDGE Group - وكالة أنباء الإمارات",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-05-14",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1NTZUFsTWxSelRXSWVmTENNOFZJcGFPU3FCU3l5Qlo3S1RKYmtFQkE0Z0pTeUViaFlPMy1mb0QtbnlMaGtIUnNlTDhYNk5oWWJjMTJIcXpzZkhJbXg3VExiNnVuaUV0NzRqN21jMDU5M3cydlQ1UENXZGk0OUV2SkE5V2xEX3c1N0N6V25UYVY?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "وكالة أنباء الإمارات",
         "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlhYZEpTT1hiWEdJQVVKSmdscnNCR3RLRXctN2lIcjVCU1daQjhTWkNkWFFKWDB5TkZnWndvZW5XOWZyTk5VSDl5cm0wSnBYWTFEdExweFloVFJuQWFfWEtRRWJlQ3pxYUs0VTN0T3NUSzRaWm5aRGpNU0tDd1dzVnprVkRDaGE2anlFN3BOUkp1S1dfbDZScGxud0REaG1Ca1hB?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -9,18 +21,6 @@
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-05-14",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlhYZEpTT1hiWEdJQVVKSmdscnNCR3RLRXctN2lIcjVCU1daQjhTWkNkWFFKWDB5TkZnWndvZW5XOWZyTk5VSDl5cm0wSnBYWTFEdExweFloVFJuQWFfWEtRRWJlQ3pxYUs0VTN0T3NUSzRaWm5aRGpNU0tDd1dzVnprVkRDaGE2anlFN3BOUkp1S1dfbDZScGxud0REaG1Ca1hB?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 2,
-        "source": "وكالة أنباء الإمارات",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFJuSDNpS1I5Z01uTEs4V1Q2ZEFOdkF0Q0drOXJRN0ZoNlpsMnVwYmJqUWlWS21NOEZzWTNfWGtCeUlPUUo4WTVNeGRsRU9hRTk1VTBZeEpkNXJnaXdtQWFTQVI1LTRsMG1pcElQMTRDdjNLNkxia1FlS25mbkMxWmNqTzkwTVRiemtwc19FVQ?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El presidente de EAU y el emir de Qatar abordan las relaciones bilaterales y la situación regional en una llamada telefónica - وكالة أنباء الإمارات",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-05-13",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFJuSDNpS1I5Z01uTEs4V1Q2ZEFOdkF0Q0drOXJRN0ZoNlpsMnVwYmJqUWlWS21NOEZzWTNfWGtCeUlPUUo4WTVNeGRsRU9hRTk1VTBZeEpkNXJnaXdtQWFTQVI1LTRsMG1pcElQMTRDdjNLNkxia1FlS25mbkMxWmNqTzkwTVRiemtwc19FVQ?oc=5",
         "priority": "normal"
     },
     {
@@ -50,13 +50,13 @@
     {
         "id": 5,
         "source": "وكالة أنباء الإمارات",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTVsbkdZVWhYNHZlNmdYaDdVNWl2b0ttRnRWZFhucmRNUWc5MVZhSkZGOXg5aERZd3dZbGhnNng0bEN0V2lhUUM3c2ZNa3h0ektXY2p0amRzeDdNa1BsQllScWtvV1ZObVVZaTlLcDhKSnhQWWFKNHJ2NzJHcTgtLVgtY2pzUTdDT0xucWlTbEVKUU4xNzNYeWVfVG4?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXZUNXc4RngyYkNUX2tXNE1QMFByQWJuczhSRC1ZeENtTXdsM3habTJoR1dubUZqdk9KNE8tZUpMZXRkbG5SYW51eXluS1JodFhuM1ZZRy1CYVdnaFc1ODA2Y3lGTnZTbGNYOVNOblJjbU93aFk3UjBLSTc5Zkh2VXJmbDhENjNm?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "El oro sube y el petróleo repunta levemente por la debilidad del dólar - وكالة أنباء الإمارات",
+        "title": "El Secretario General de la ASEAN y el Embajador de los EAU discuten la participación de ASEAN en la Expo 2020 Dubái - وكالة أنباء الإمارات",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-05-14",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTVsbkdZVWhYNHZlNmdYaDdVNWl2b0ttRnRWZFhucmRNUWc5MVZhSkZGOXg5aERZd3dZbGhnNng0bEN0V2lhUUM3c2ZNa3h0ektXY2p0amRzeDdNa1BsQllScWtvV1ZObVVZaTlLcDhKSnhQWWFKNHJ2NzJHcTgtLVgtY2pzUTdDT0xucWlTbEVKUU4xNzNYeWVfVG4?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXZUNXc4RngyYkNUX2tXNE1QMFByQWJuczhSRC1ZeENtTXdsM3habTJoR1dubUZqdk9KNE8tZUpMZXRkbG5SYW51eXluS1JodFhuM1ZZRy1CYVdnaFc1ODA2Y3lGTnZTbGNYOVNOblJjbU93aFk3UjBLSTc5Zkh2VXJmbDhENjNm?oc=5",
         "priority": "normal"
     }
 ]
