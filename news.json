@@ -2,6 +2,18 @@
     {
         "id": 1,
         "source": "وكالة أنباء الإمارات",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGd5V1p6TjZoZFdXQzVzeng2STZQb3dmcFZkUTZ3dE1DVTd6bVFFSlJJZWRQRlJYZzBDUnpJVHVFRU8wY0pyTlV3NmRHLWU1ZHpQRThmSkdQcVdJdDZlYlctZGoyb3o2ajAxcFFaYkdsRUJ6ekROaWdDZHZXZTZQSUprOUllcG1xN20wSkIyazhJTThTVkFNaQ?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Emiratos Árabes Unidos expresa su solidaridad con India y transmite sus condolencias por las víctimas del temporal - وكالة أنباء الإمارات",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-05-15",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGd5V1p6TjZoZFdXQzVzeng2STZQb3dmcFZkUTZ3dE1DVTd6bVFFSlJJZWRQRlJYZzBDUnpJVHVFRU8wY0pyTlV3NmRHLWU1ZHpQRThmSkdQcVdJdDZlYlctZGoyb3o2ajAxcFFaYkdsRUJ6ekROaWdDZHZXZTZQSUprOUllcG1xN20wSkIyazhJTThTVkFNaQ?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "وكالة أنباء الإمارات",
         "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUtCVFJ0dFBpcElyYV90ZF9CdEpCT2p3aHhUTFQ4ZDlrOWptaXpPTkc5REI5ZDNIdkY5RnJZejJBOGRZM1FyMVN6UUk3OXo5ZUVNV2diOFV5SnhSMzZtZ2FBVGtjSWJncjFhdHR4TkNBd0xpY1YwM1g3aWpnUmRaSjlabUhrLWYwZ1o5dk1R?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -12,7 +24,7 @@
         "priority": "normal"
     },
     {
-        "id": 2,
+        "id": 3,
         "source": "وكالة أنباء الإمارات",
         "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN29OUzVuelZMR296QnpZM1VzV3VkMFI2ZDI4VC1rQ1dQbk16NjVHTkR5dGxwOG5QX1E2OG1VRkxqNC1UaUtpd2tiYWxxWGNqQ2pYcVljOEtEZ3lVX2pyTjhaZGxqQWpKNWZjUlRnYlVCSklobUNoZ3dBZEI3SnNCbnBCNldlT2RRRmpiT05YVTE2eUhjb3pua09zSQ?oc=5",
         "sourceIcon": "📰",
@@ -24,39 +36,27 @@
         "priority": "normal"
     },
     {
-        "id": 3,
-        "source": "وكالة أنباء الإمارات",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdC1LbUk2RGNJak5QWjkxVlZDVVFXQ3hVMFEwdnhnNFdaYVdpTkVoRlVqMDZZRTRja0UydHdMaFFwRnJLS1lib1doUkw5WkxvajFhUFVWWlNQSDBkMzI0MlNpeTBGMXJ2Tjd2OW1GaXFjdjNPZ3Y3dzI5RHAzSWIxZ2dBSG1EUFUxaVJN?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "MoHAP lanza la segunda fase de la iniciativa 'Ambiente de trabajo saludable y positivo' - وكالة أنباء الإمارات",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-05-14",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdC1LbUk2RGNJak5QWjkxVlZDVVFXQ3hVMFEwdnhnNFdaYVdpTkVoRlVqMDZZRTRja0UydHdMaFFwRnJLS1lib1doUkw5WkxvajFhUFVWWlNQSDBkMzI0MlNpeTBGMXJ2Tjd2OW1GaXFjdjNPZ3Y3dzI5RHAzSWIxZ2dBSG1EUFUxaVJN?oc=5",
-        "priority": "normal"
-    },
-    {
         "id": 4,
         "source": "وكالة أنباء الإمارات",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb0REd3poZElQLWpSTWFWRDVLSFdEdDRuUzZRN3RnTnoxaURaUmxrZUhzLVFTbHFaNC1VTi1waS1KNlRCeV9sOHcwcWJuemxaczRHVlAwYmdoUy0zRWR2U2V5MlNkdUNmdDZKQlplblJiVHNLSmJ5d2RXdV9va0xNRTJNWmJHVlAyTnpibQ?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNmTmxMRENWcGE1QTNmbzJYQkVvZlVFWEF6VDVnbDdhdmpwaFdTaVplbzFaVmJ4ZFM0N284NjlJcmdFZkxHUU5yLUpEdmtPVUNfVFdsVUE5c1ZvbnBWdUY3SFZ3cDNyc1ZndTlvcEl2Q1RkY2lidjQ1aTlsTS1BS2gtc3JOMnhCb21HTG51QW5ZQURCMmEwWG05Uzg?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Programa de líderes gubernamentales de los EAU pronostica el papel de las tecnologías futuras - وكالة أنباء الإمارات",
+        "title": "Abdullah bin Zayed se reúne con el vice primer ministro y ministro de Justicia británico - وكالة أنباء الإمارات",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-05-14",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb0REd3poZElQLWpSTWFWRDVLSFdEdDRuUzZRN3RnTnoxaURaUmxrZUhzLVFTbHFaNC1VTi1waS1KNlRCeV9sOHcwcWJuemxaczRHVlAwYmdoUy0zRWR2U2V5MlNkdUNmdDZKQlplblJiVHNLSmJ5d2RXdV9va0xNRTJNWmJHVlAyTnpibQ?oc=5",
+        "date": "2026-05-15",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNmTmxMRENWcGE1QTNmbzJYQkVvZlVFWEF6VDVnbDdhdmpwaFdTaVplbzFaVmJ4ZFM0N284NjlJcmdFZkxHUU5yLUpEdmtPVUNfVFdsVUE5c1ZvbnBWdUY3SFZ3cDNyc1ZndTlvcEl2Q1RkY2lidjQ1aTlsTS1BS2gtc3JOMnhCb21HTG51QW5ZQURCMmEwWG05Uzg?oc=5",
         "priority": "normal"
     },
     {
         "id": 5,
         "source": "وكالة أنباء الإمارات",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2x6d2tyNHBrMnVJV183emd5SUxpNTZDaDJQajRpRm9objl2TUg1ZWJEazk1SXVuVDRodUtMU0NZcjlNWVdERk5VV2drY09MN2lDMk95VUxmbklzNS0tYkFHenIwRW15bGRKeWkwaU5EOE1zVmEwXy11SURMdXlhRnFhdGg4dDdm?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDZMeTVnZUcxNjNGWW5YbENDdzVoaTh1aEwyR01RVG5EcWdLblNFQjducm5uaDF5TXRsanUxc3AtRDFEV2swRUY4WnR2bW5UN00yZHFWQXpETE1IanNIZFZjbDA1czZRTWVzZUxPNFFvZkk3RUZHQmxOdlNISmhkZkg5T3I2SjB3X25DQndHdVVCZFBPTGFCRTY2SFZYWnpUVmc?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "El presidente de Paraguay expresa su solidaridad con Emiratos en una llamada con Mohamed bin Zayed - وكالة أنباء الإمارات",
+        "title": "Emiratos Árabes Unidos condena enérgicamente el ataque terrorista contra un buque con bandera india frente a las costas de Omán - وكالة أنباء الإمارات",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-05-14",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2x6d2tyNHBrMnVJV183emd5SUxpNTZDaDJQajRpRm9objl2TUg1ZWJEazk1SXVuVDRodUtMU0NZcjlNWVdERk5VV2drY09MN2lDMk95VUxmbklzNS0tYkFHenIwRW15bGRKeWkwaU5EOE1zVmEwXy11SURMdXlhRnFhdGg4dDdm?oc=5",
+        "date": "2026-05-15",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDZMeTVnZUcxNjNGWW5YbENDdzVoaTh1aEwyR01RVG5EcWdLblNFQjducm5uaDF5TXRsanUxc3AtRDFEV2swRUY4WnR2bW5UN00yZHFWQXpETE1IanNIZFZjbDA1czZRTWVzZUxPNFFvZkk3RUZHQmxOdlNISmhkZkg5T3I2SjB3X25DQndHdVVCZFBPTGFCRTY2SFZYWnpUVmc?oc=5",
         "priority": "normal"
     }
 ]
