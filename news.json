@@ -1,38 +1,26 @@
 [
     {
         "id": 1,
-        "source": "وكالة أنباء الإمارات",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVm15NFpuNHU1Q0VzbGFfQTFvT1oyd0RjRVNIT01JSEVTN0I4QTE5QnEyQWx1c2plSzZNbG45Q2o0d1hHV2h2aTJabmFRZ0lKUUJhUjRnMVdDRnFwX3gyZm1pOUhIcXBOQ19LZGh2Z28zaVpXQU5tSEZLX3U0YlRNcWhqUnhuRzczb1lDYkFLOWU3WUNXRldHemFIZw?oc=5",
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeS04Nm5LWlJldUlXT0ItaEl0VDRPdU1HZnFlU2hlZTlWZTdueWZ2eldhQjdzbUJpUG9PUk9GWUU4MVYyYjFDWlVsOVZlaDRKNmk4ZnE5Y2lFUzJfb3UtckVJdHpFYzItYVhMNGh4TkhUeU1KbjNTR19GQTlNVGRXWGVOTUR2b2ZtQV93Nmg4TQ?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Emiratos Árabes Unidos condena el ataque terrorista contra el perímetro de la central de Barakah - وكالة أنباء الإمارات",
+        "title": "El dólar se estabiliza tras recientes caídas - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-05-18",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVm15NFpuNHU1Q0VzbGFfQTFvT1oyd0RjRVNIT01JSEVTN0I4QTE5QnEyQWx1c2plSzZNbG45Q2o0d1hHV2h2aTJabmFRZ0lKUUJhUjRnMVdDRnFwX3gyZm1pOUhIcXBOQ19LZGh2Z28zaVpXQU5tSEZLX3U0YlRNcWhqUnhuRzczb1lDYkFLOWU3WUNXRldHemFIZw?oc=5",
+        "date": "2026-05-19",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeS04Nm5LWlJldUlXT0ItaEl0VDRPdU1HZnFlU2hlZTlWZTdueWZ2eldhQjdzbUJpUG9PUk9GWUU4MVYyYjFDWlVsOVZlaDRKNmk4ZnE5Y2lFUzJfb3UtckVJdHpFYzItYVhMNGh4TkhUeU1KbjNTR19GQTlNVGRXWGVOTUR2b2ZtQV93Nmg4TQ?oc=5",
         "priority": "normal"
     },
     {
         "id": 2,
-        "source": "وكالة أنباء الإمارات",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU81Vk52M2NaQkxuWlN6Zjg4djlEaWt2RC1LVTRxaDdPNkJYRWhVUFRjWGQwbFBKUzZFRGNkZ1BEd1RpV1diR3JhWFpWNjRRN05NODdWS2lHQWwzTE5naGdlek9xTXM0Tk9mdzFlaVl6aU04WkdURXFwVGlYdDBYN2NqZnU4R0RBbjZUT2NwQWZwWEpUR2o0?oc=5",
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXQ0MGU1OVVkN3JvcHpDRXFyeVQzOEFPa3VGbWJoc0JLV3B0MlpvV1dRYlRaTERDZHNQbE5ERl9kZ3NTeGJfNWZGQlZkWDBwbjBuZFdnT1FJY1J6R0Fwd0VBMzFqeGo5ZThBNUM1NC03VDM0MXI3LTFKVmJvbTJQSWdQbmJ6OWtjNGlVSmFwcjI3T3UwclN1Qk1Xaw?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Autoridad Federal de Regulación Nuclear de Emiratos confirma que el incendio fuera del perímetro de Barakah no afectó la seguridad de la central ni sus sistemas esenciales - وكالة أنباء الإمارات",
+        "title": "Abdullah bin Zayed y la ministra británica de Exteriores abordan las relaciones estratégicas y la situación regional - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-05-18",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU81Vk52M2NaQkxuWlN6Zjg4djlEaWt2RC1LVTRxaDdPNkJYRWhVUFRjWGQwbFBKUzZFRGNkZ1BEd1RpV1diR3JhWFpWNjRRN05NODdWS2lHQWwzTE5naGdlek9xTXM0Tk9mdzFlaVl6aU04WkdURXFwVGlYdDBYN2NqZnU4R0RBbjZUT2NwQWZwWEpUR2o0?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 3,
-        "source": "وكالة أنباء الإمارات",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdkxEc2Q4MUI4Nldra2dsRkE4Y0sxbE4yMDYxMngxdVFkUjdyTVFqZEM3azVkWTNGcFBnS1dVMVEweXYtQlBTMmZ4ajFGQ3JrVThKMTZWZDdEdEYyZU1KRG1NX2FqOWZtNGNRU2xPY0czRi1fYWFia0Q4MW1iYkJicTg2Y2lnTnVUMFlOZUZiUE5RS0YtUHc?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Emiratos Árabes Unidos declara festivos del 26 al 29 de mayo para el sector privado por Eid al Adha - وكالة أنباء الإمارات",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-05-18",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdkxEc2Q4MUI4Nldra2dsRkE4Y0sxbE4yMDYxMngxdVFkUjdyTVFqZEM3azVkWTNGcFBnS1dVMVEweXYtQlBTMmZ4ajFGQ3JrVThKMTZWZDdEdEYyZU1KRG1NX2FqOWZtNGNRU2xPY0czRi1fYWFia0Q4MW1iYkJicTg2Y2lnTnVUMFlOZUZiUE5RS0YtUHc?oc=5",
+        "date": "2026-05-19",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXQ0MGU1OVVkN3JvcHpDRXFyeVQzOEFPa3VGbWJoc0JLV3B0MlpvV1dRYlRaTERDZHNQbE5ERl9kZ3NTeGJfNWZGQlZkWDBwbjBuZFdnT1FJY1J6R0Fwd0VBMzFqeGo5ZThBNUM1NC03VDM0MXI3LTFKVmJvbTJQSWdQbmJ6OWtjNGlVSmFwcjI3T3UwclN1Qk1Xaw?oc=5",
         "priority": "normal"
     }
 ]
