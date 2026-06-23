@@ -2,13 +2,61 @@
     {
         "id": 1,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcHJTMk5JUkNxbDZydHhaVzlZOEN1NzVJSXFYWHRWaks0U0ZleW1sOFkxSTJQdWdIZXlnWWlPUGtMNXlVa3FZRjVyRGFybzJleUdNZ2pEWlVuTHZiZHBwcGVlbTZhd0w4REdtVVpOZzJDbVZ2bEMySlNDaFdWYmNybXhPQ2FsaUxpV0hkM0RqclRjZw?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkh4VDZDMGIxd2FvZGVkSVc5VUd1SDFhazEwUGRUQ1QtZkVGV09nWElUaEoyc2VSQ0JISW1vWVRNZzhMdGtkOXNBcWZ4SFYwbGhVbldEYkQ3WlljUmNXeVVMcTI3Y212enN5Tl9XdnZyUVk0bkt0Z3lwUEFaa3dmSTBzVEc4UkR0?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Kuwait desarticula una trama de financiación del terrorismo - وكالة وام",
+        "title": "Los EAU expresan su solidaridad con Catar tras la explosión en una fábrica de la ciudad industrial de Ras Laffan - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-06-21",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcHJTMk5JUkNxbDZydHhaVzlZOEN1NzVJSXFYWHRWaks0U0ZleW1sOFkxSTJQdWdIZXlnWWlPUGtMNXlVa3FZRjVyRGFybzJleUdNZ2pEWlVuTHZiZHBwcGVlbTZhd0w4REdtVVpOZzJDbVZ2bEMySlNDaFdWYmNybXhPQ2FsaUxpV0hkM0RqclRjZw?oc=5",
+        "date": "2026-06-22",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkh4VDZDMGIxd2FvZGVkSVc5VUd1SDFhazEwUGRUQ1QtZkVGV09nWElUaEoyc2VSQ0JISW1vWVRNZzhMdGtkOXNBcWZ4SFYwbGhVbldEYkQ3WlljUmNXeVVMcTI3Y212enN5Tl9XdnZyUVk0bkt0Z3lwUEFaa3dmSTBzVEc4UkR0?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU3BIZW9EYWN4MjF0MWcwbUhGQzZOTWgyQ0NLaGo5Q3l3T0pYZENNcEZvNlZwTjcxMEtZYjFMWnNuQ1o1b0F4SzdvY25Ta1c4VnVfNUxsUWxkdzE5VlNodGhQMUJBcnF1Z19vS3QzUXpwMlFuaWh3a2hfN3M5Wmp5bWhmY210UFNwdXdzYmpzY2ZSZTR2UkZHWm93NzMzZw?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Los EAU intensifican la asistencia humanitaria en países afectados por desastres y crisis - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-06-22",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU3BIZW9EYWN4MjF0MWcwbUhGQzZOTWgyQ0NLaGo5Q3l3T0pYZENNcEZvNlZwTjcxMEtZYjFMWnNuQ1o1b0F4SzdvY25Ta1c4VnVfNUxsUWxkdzE5VlNodGhQMUJBcnF1Z19vS3QzUXpwMlFuaWh3a2hfN3M5Wmp5bWhmY210UFNwdXdzYmpzY2ZSZTR2UkZHWm93NzMzZw?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 3,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXJFX0JGdDNaeWN0T1ExNHcxaXJKdWRaU1ZBNHNSMVBfdXF4UnNCVmJuYUMzUTlfaGRTWlhqcXN3YVFvUGd1T1k0RVkxMER2UndRckJuT0RhakxCckhFdFZSUTBUNklzV1dGSTRMdEVGb3Rjbk5ZeHpJTEV4c2VIdEZVbjdZNzdITlV4M2xtUkpkQURJdHhEWUNn?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Los EAU lideran la adopción de las compras impulsadas por inteligencia artificial - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-06-22",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXJFX0JGdDNaeWN0T1ExNHcxaXJKdWRaU1ZBNHNSMVBfdXF4UnNCVmJuYUMzUTlfaGRTWlhqcXN3YVFvUGd1T1k0RVkxMER2UndRckJuT0RhakxCckhFdFZSUTBUNklzV1dGSTRMdEVGb3Rjbk5ZeHpJTEV4c2VIdEZVbjdZNzdITlV4M2xtUkpkQURJdHhEWUNn?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 4,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXE2OURIYWhWeUR5Tlljb3pKTE5qbzFNVDVmdWs3WHBQVFVUZ2hGWloweVNFY3VxaDRDWHhfa2pnZGNLOUxPNldmekRDaHdtVVNqWER3T1VEc2J4UFlXRmlIYnhvNXJheUxqSENtSmEyazlXM0tESnpVNFNCNG5RYV9DT21Gbm9SXzIta01Rckw4VXlhNGlUY0dDbVRFOU1WYzh2RTh3?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "La operación Chivalrous Knight 3 envía 786 toneladas de ayuda a Gaza - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-06-22",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXE2OURIYWhWeUR5Tlljb3pKTE5qbzFNVDVmdWs3WHBQVFVUZ2hGWloweVNFY3VxaDRDWHhfa2pnZGNLOUxPNldmekRDaHdtVVNqWER3T1VEc2J4UFlXRmlIYnhvNXJheUxqSENtSmEyazlXM0tESnpVNFNCNG5RYV9DT21Gbm9SXzIta01Rckw4VXlhNGlUY0dDbVRFOU1WYzh2RTh3?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 5,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjVJTWsyY2czdkhpM0owN244ZFpWNHVzZmJvXzdEVEJNT0NrZldkR0gwUmxmVTBORG1tY25HUm55RWM4WFdKYnFWSmVzUjBTY0pEWWpaLWx0d09kR3lNZGdSM3dpZ3hwT1c4XzByc2ZpV3dVVjd0VVRBb2JESGVKNHYtWGRWcF9lY1Vtdi16VVpVM3JBeTBTNEkxeDY?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "El equipo de respuesta de los EAU evalúa las labores de ayuda en el sur de Filipinas - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-06-22",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjVJTWsyY2czdkhpM0owN244ZFpWNHVzZmJvXzdEVEJNT0NrZldkR0gwUmxmVTBORG1tY25HUm55RWM4WFdKYnFWSmVzUjBTY0pEWWpaLWx0d09kR3lNZGdSM3dpZ3hwT1c4XzByc2ZpV3dVVjd0VVRBb2JESGVKNHYtWGRWcF9lY1Vtdi16VVpVM3JBeTBTNEkxeDY?oc=5",
         "priority": "normal"
     }
 ]
