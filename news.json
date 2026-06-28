@@ -2,13 +2,49 @@
     {
         "id": 1,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0Rvdkx3cURhYVYzZFNiaDhhaHFFRVlXTTdBWHhqVmlnOVg0dGU4ZEpzS0tTS1FYRlcyUkM4WmpwYkNZcE5lbmNjM25sZkRYbEhtT0FrNUxOTHRGVEI3ZTR4SmJJRW1KZ1pra3h0d2xOQ01vMm55Z3drOVZyMi1Ec0gyMkZsbzRNNEtN?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFdKSDRKQkNfSms0TU9OTE9PLWpHSTA5QlZEQk1USnlLSXYtN1V5Yk1xSUxmdEh6cFpJMXdYdTJQZDlfZzUzY1l1djFUejk1ekJkOU1aOVJLRWltdW4xMkJQVklLSjZ5ZDl2Tk1NbnJEMEhmYzVxdy1FaGtNYmMwNE5ybHVBVTg?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Emiratos cierra temporal y parcialmente su espacio aéreo como medida preventiva excepcional - وكالة وام",
+        "title": "EAU destina, por directrices del presidente, 10 millones de dólares en ayuda urgente a las víctimas de los terremotos en Venezuela - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-06-24",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0Rvdkx3cURhYVYzZFNiaDhhaHFFRVlXTTdBWHhqVmlnOVg0dGU4ZEpzS0tTS1FYRlcyUkM4WmpwYkNZcE5lbmNjM25sZkRYbEhtT0FrNUxOTHRGVEI3ZTR4SmJJRW1KZ1pra3h0d2xOQ01vMm55Z3drOVZyMi1Ec0gyMkZsbzRNNEtN?oc=5",
+        "date": "2026-06-28",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFdKSDRKQkNfSms0TU9OTE9PLWpHSTA5QlZEQk1USnlLSXYtN1V5Yk1xSUxmdEh6cFpJMXdYdTJQZDlfZzUzY1l1djFUejk1ekJkOU1aOVJLRWltdW4xMkJQVklLSjZ5ZDl2Tk1NbnJEMEhmYzVxdy1FaGtNYmMwNE5ybHVBVTg?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnllc2htRXNTYlhEOFNIcWRBRnM2N25ob0s3aG9KTGZnTERubGQxa2hkTVh0UkZQZU1STTdRRzJjbEJwTExBTlRib2VFak1yak1FQ1kxR0xkTFM0OVdpbnVCclhGV1dIZFlNQmV1QW12Rmd5WURMcW9DWFozQWJEclBCLXpfRllhTzU0cWNaeFpmek1TVDJRUTNpQWVjd2pyRmtR?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Las autoridades emiratíes informan de la resolución de un fallo técnico en el sistema nacional de alerta temprana - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-06-28",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnllc2htRXNTYlhEOFNIcWRBRnM2N25ob0s3aG9KTGZnTERubGQxa2hkTVh0UkZQZU1STTdRRzJjbEJwTExBTlRib2VFak1yak1FQ1kxR0xkTFM0OVdpbnVCclhGV1dIZFlNQmV1QW12Rmd5WURMcW9DWFozQWJEclBCLXpfRllhTzU0cWNaeFpmek1TVDJRUTNpQWVjd2pyRmtR?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 3,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUtMdUNNSEQ1dnNXQnI1TzdGVlk5MXBueVprdFJoR3dIZlJOdEJoaTd2eHBLMmtlQ09ITTBwd1pMUDBWMWxFd3FoMkhqYTRKYVlPVXNGbV96OUxOQm8xTVpEV0NJVHJsRWw0NFd1YnNEUG5OWnNrMno0aXBhVHhub0xpZE5TeFE0VEJ3QkJuUHRGaXpHNW5rY0dBYldBMjFpUm9OOGdvUzE?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "La última mediación de Emiratos permite el intercambio de 320 prisioneros entre Rusia y Ucrania - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-06-28",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUtMdUNNSEQ1dnNXQnI1TzdGVlk5MXBueVprdFJoR3dIZlJOdEJoaTd2eHBLMmtlQ09ITTBwd1pMUDBWMWxFd3FoMkhqYTRKYVlPVXNGbV96OUxOQm8xTVpEV0NJVHJsRWw0NFd1YnNEUG5OWnNrMno0aXBhVHhub0xpZE5TeFE0VEJ3QkJuUHRGaXpHNW5rY0dBYldBMjFpUm9OOGdvUzE?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 4,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUNwbTVUbW1lbEtUY21NVHFUQ3R1NFBEWlcxUFlDaU11NjUtMkliNUtpXzVBVFRPSW80UjVLbl9GX2kwd1hsM1pvZm5xVmw0ZGVfOW5BdHpRVEVRSjl3OGhtTjB0S1BXbkRSbEtlZk9mWlNlTFRVUzVLR0tJLW12YUxUNkotb3d0dzdJWFh4MVA1T003WlE?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Abdullah bin Zayed conversa por teléfono con el ministro de Asuntos Exteriores de Irán - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-06-28",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUNwbTVUbW1lbEtUY21NVHFUQ3R1NFBEWlcxUFlDaU11NjUtMkliNUtpXzVBVFRPSW80UjVLbl9GX2kwd1hsM1pvZm5xVmw0ZGVfOW5BdHpRVEVRSjl3OGhtTjB0S1BXbkRSbEtlZk9mWlNlTFRVUzVLR0tJLW12YUxUNkotb3d0dzdJWFh4MVA1T003WlE?oc=5",
         "priority": "normal"
     }
 ]
