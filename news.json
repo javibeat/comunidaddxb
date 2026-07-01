@@ -14,6 +14,18 @@
     {
         "id": 2,
         "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1p5aHlQWjN3c3NLMHNrSGZPZU5hN2VsaWttTjNnMWtfbjhpdUJmOGZ1b1pPZDZlRklNYlEzTUNVT0NNb3kxcEtZU1VZVTNoYy15dEZCY3N0T0R5QkZXMXowSVczNDRIQVI0S1dBSXhTUDJSdTlQeHlXN0dhTVpWQ25KV3lxeEstblFDVlktMmg?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Emiratos reduce los precios de los combustibles para julio - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-06-30",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1p5aHlQWjN3c3NLMHNrSGZPZU5hN2VsaWttTjNnMWtfbjhpdUJmOGZ1b1pPZDZlRklNYlEzTUNVT0NNb3kxcEtZU1VZVTNoYy15dEZCY3N0T0R5QkZXMXowSVczNDRIQVI0S1dBSXhTUDJSdTlQeHlXN0dhTVpWQ25KV3lxeEstblFDVlktMmg?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 3,
+        "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXJhenE0cU0xWU52RGR5TFB3VGlVbnhIdnFIWUhIcldZOWpoQ0RkVG9kNFRiWUR3aVFuUm9pN0l0VGxhcllUdE44d2g1eHFSUEswNlYzbmNqSll4aEIweGtaMUk1T1hoRXhwOFhaSnJockVuRlpESjlKYXE5dmhkRlQ5VWo3MkV3c0tvTzRLVUE4SEQ5eVQ0?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -24,7 +36,7 @@
         "priority": "normal"
     },
     {
-        "id": 3,
+        "id": 4,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDQ4VnQ4YjBDVzVLNWNudEFQZlFabTVvZFJIVnYzMlNLbXdxZjlVWTBwT0J1M3FsZ2ttZlJuZC03enlFX25QNE92Z0xxNzJOR0RmTTRka2ZOM2pla0pTcjM2U3gzMElDeHUyMzh5MUhlZnlBYl9sM09Tb2gyX2JkUmRqRHBpclNPRVV6NA?oc=5",
         "sourceIcon": "📰",
@@ -36,7 +48,7 @@
         "priority": "normal"
     },
     {
-        "id": 4,
+        "id": 5,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelhvOElYdkpiNy1QdG5PbGpDN0ZyTVhaZ2JPME1KNlBsVGVmOTFYY182d2pJZTlnY0RRdERDekdWT0JKZU95RENXbF9ueDBJRU40YnBIQk9TRWNDS3BtX0RZNGJLa0hkV1dhczVrVXhhck00amtMMHQ1MUZySHNNdS1rVHF6N1BZUkFLUlhNd243SDQ?oc=5",
         "sourceIcon": "📰",
@@ -45,18 +57,6 @@
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-06-30",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelhvOElYdkpiNy1QdG5PbGpDN0ZyTVhaZ2JPME1KNlBsVGVmOTFYY182d2pJZTlnY0RRdERDekdWT0JKZU95RENXbF9ueDBJRU40YnBIQk9TRWNDS3BtX0RZNGJLa0hkV1dhczVrVXhhck00amtMMHQ1MUZySHNNdS1rVHF6N1BZUkFLUlhNd243SDQ?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 5,
-        "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1o2ajJtNmJKU0hPbHJMV2tJRF82YlgySllsVXdiQ3FuU19GN3dsbjlKRE9MU185OExsb3VBaU9UY1VHamlLdjVlbVdRYUo2a213N0xxd2tLNjNqdmJXUFhSdlBwcVloTnlzQTFBY2xMZWhjZDZpV1FKeUkxdVJIbk9DU3dmY0Q5bFE?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El primer tren de pasajeros de Etihad Rail procedente de Fujairah llega a Abu Dabi - وكالة وام",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-06-30",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1o2ajJtNmJKU0hPbHJMV2tJRF82YlgySllsVXdiQ3FuU19GN3dsbjlKRE9MU185OExsb3VBaU9UY1VHamlLdjVlbVdRYUo2a213N0xxd2tLNjNqdmJXUFhSdlBwcVloTnlzQTFBY2xMZWhjZDZpV1FKeUkxdVJIbk9DU3dmY0Q5bFE?oc=5",
         "priority": "normal"
     }
 ]
