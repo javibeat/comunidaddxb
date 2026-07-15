@@ -2,13 +2,49 @@
     {
         "id": 1,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0Rvdkx3cURhYVYzZFNiaDhhaHFFRVlXTTdBWHhqVmlnOVg0dGU4ZEpzS0tTS1FYRlcyUkM4WmpwYkNZcE5lbmNjM25sZkRYbEhtT0FrNUxOTHRGVEI3ZTR4SmJJRW1KZ1pra3h0d2xOQ01vMm55Z3drOVZyMi1Ec0gyMkZsbzRNNEtN?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9ib2habjM4bVJuWTZ4Y0NLMEtMZjRMQ2FEeEtwYUpYUGwtRkxKajNBYnBLN3dBY0NwNWJVRWVkQTV2TFRkSlhHVzZSVENNbURrTFI3V2ltSEZvbE1nc0NDQVJtR1lKWldGSXZQc21pRnN1SmZGa0o2WXJkbTY2Tnd3VWEyaDd1WUJDU3Q2NA?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Emiratos cierra temporal y parcialmente su espacio aéreo como medida preventiva excepcional - وكالة وام",
+        "title": "El presidente del Parlamento Árabe condena los ataques iraníes contra dos petroleros de Emiratos Árabes Unidos en el estrecho de Ormuz - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-07-06",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0Rvdkx3cURhYVYzZFNiaDhhaHFFRVlXTTdBWHhqVmlnOVg0dGU4ZEpzS0tTS1FYRlcyUkM4WmpwYkNZcE5lbmNjM25sZkRYbEhtT0FrNUxOTHRGVEI3ZTR4SmJJRW1KZ1pra3h0d2xOQ01vMm55Z3drOVZyMi1Ec0gyMkZsbzRNNEtN?oc=5",
+        "date": "2026-07-15",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9ib2habjM4bVJuWTZ4Y0NLMEtMZjRMQ2FEeEtwYUpYUGwtRkxKajNBYnBLN3dBY0NwNWJVRWVkQTV2TFRkSlhHVzZSVENNbURrTFI3V2ltSEZvbE1nc0NDQVJtR1lKWldGSXZQc21pRnN1SmZGa0o2WXJkbTY2Tnd3VWEyaDd1WUJDU3Q2NA?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWwyc0N4RGY1THBxaUZGUHNBM2xZaXlla0pNdi1BSWR6ZW81Y3BFU0hPZ0FROHFpbGlQSllONTN6UldfcjFpOHp6WGNaVzBWbk1lM1dvVmVsMUJCY3RGMzFIeVNUcksydnM2VHAyd2VEcURENGdCNFZjS055Zm5XcDFCcDF1b3BGWjZCdGdmN1lSMFYxM1BVa0g4QQ?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Abdullah bin Zayed recibe una llamada telefónica del secretario general de la Liga Árabe - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-07-15",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWwyc0N4RGY1THBxaUZGUHNBM2xZaXlla0pNdi1BSWR6ZW81Y3BFU0hPZ0FROHFpbGlQSllONTN6UldfcjFpOHp6WGNaVzBWbk1lM1dvVmVsMUJCY3RGMzFIeVNUcksydnM2VHAyd2VEcURENGdCNFZjS055Zm5XcDFCcDF1b3BGWjZCdGdmN1lSMFYxM1BVa0g4QQ?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 3,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmo1QnJVLV9QU2NIOTQ3MzRyV2YwdmEycVVfU0JjeEFkWF8yT0lWVnRwcHJGdHREbHh6WDlfTEphV3FuVlJsb3ZJTDlxSmVxZUZsRVdrWmdpLU82NjF1b1dEZG1CeHRneTJZSS0xYzdWRHhac0J6NE03YnFWUWlVNGh5UkE2UkVWSU9pVHk1bVdEYXBPNDRMM19xX0hGb1Z2LTlzbVJlUQ?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Emiratos Árabes Unidos condena enérgicamente los ataques de la milicia terrorista hutí contra Arabia Saudí - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-07-15",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmo1QnJVLV9QU2NIOTQ3MzRyV2YwdmEycVVfU0JjeEFkWF8yT0lWVnRwcHJGdHREbHh6WDlfTEphV3FuVlJsb3ZJTDlxSmVxZUZsRVdrWmdpLU82NjF1b1dEZG1CeHRneTJZSS0xYzdWRHhac0J6NE03YnFWUWlVNGh5UkE2UkVWSU9pVHk1bVdEYXBPNDRMM19xX0hGb1Z2LTlzbVJlUQ?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 4,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXUxWnpzeGhjSDVKbHJzLWhuUXM1Nm8tMy1HMldobnNBTUR2d2hEVW1pN2hLWk1MSE41ejBWTUUwQy1OdXNLVVRMN0tMN0R4cE5hUzUtNGFKM0tzYm5RRGZKZGd1OU45X0pMYWhSS3FXcDJfdVBhUTBMaGhHR3diNElNWUxJSkN6V0JXeUNhNnRUNl91amdYOWhGcWpwTjA?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Dubai Humanitarian envía un cuarto puente aéreo de ayuda a Uganda mientras continúa la respuesta al brote de ébola - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-07-15",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXUxWnpzeGhjSDVKbHJzLWhuUXM1Nm8tMy1HMldobnNBTUR2d2hEVW1pN2hLWk1MSE41ejBWTUUwQy1OdXNLVVRMN0tMN0R4cE5hUzUtNGFKM0tzYm5RRGZKZGd1OU45X0pMYWhSS3FXcDJfdVBhUTBMaGhHR3diNElNWUxJSkN6V0JXeUNhNnRUNl91amdYOWhGcWpwTjA?oc=5",
         "priority": "normal"
     }
 ]
