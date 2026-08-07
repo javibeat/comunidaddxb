@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "source": "Emirates News Agency",
+        "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjdoRHpLSWMxc1JZUDVYSUFBa253SDlaZjJVbzBTZF9sUWFobXdaNjhBbi0ydWhlX3UxWmlOaWJOclZfZU5yaWJma2pGRWFGaW1TbWZ0QzlPMUlKNlo5TlUtbUp6ZHZuQmNXQU9NY2tBYUQ4S28xcGUtWS1Zak1RWUIzSEViN2tFX2NRQ3pXNjExbkZhRFR3dg?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Ajmán registra transacciones inmobiliarias por valor de 1.650 millones de dirhams en julio - Emirates News Agency",
+        "title": "Ajmán registra transacciones inmobiliarias por valor de 1.650 millones de dirhams en julio - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-08-06",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjdoRHpLSWMxc1JZUDVYSUFBa253SDlaZjJVbzBTZF9sUWFobXdaNjhBbi0ydWhlX3UxWmlOaWJOclZfZU5yaWJma2pGRWFGaW1TbWZ0QzlPMUlKNlo5TlUtbUp6ZHZuQmNXQU9NY2tBYUQ4S28xcGUtWS1Zak1RWUIzSEViN2tFX2NRQ3pXNjExbkZhRFR3dg?oc=5",
@@ -13,50 +13,26 @@
     },
     {
         "id": 2,
-        "source": "Emirates News Agency",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVlTbXlMRmJUMGlyWFNmRFRSbTF1VUNFckhPM2VncVJBUk15REVUaGd3eVBzTXAtcmhNVVZ4YWZzLW50dlBVT1htTjExMUJEQXVEWXI0SHpoWWhpSUdoT0hVSi1wQlh3bGxGVTRMUk9vU0dPajI0bjVIakNSSVE0VnhKTmN6NmJra3FwaEZfZE9BRkRRNzJN?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El tiempo estará parcialmente nuboso este jueves, con posibilidad de lluvia en zonas del este y el sur - Emirates News Agency",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-08-05",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVlTbXlMRmJUMGlyWFNmRFRSbTF1VUNFckhPM2VncVJBUk15REVUaGd3eVBzTXAtcmhNVVZ4YWZzLW50dlBVT1htTjExMUJEQXVEWXI0SHpoWWhpSUdoT0hVSi1wQlh3bGxGVTRMUk9vU0dPajI0bjVIakNSSVE0VnhKTmN6NmJra3FwaEZfZE9BRkRRNzJN?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 3,
-        "source": "Emirates News Agency",
+        "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkpXLU11d2w2WDBSbm5fRVVqc1M0a1VsZVdjbGp0akREbTBlY0ZGTlEyQmdTMVowSU5PaWM4bW1MbkZDOWtaRjFWMHhDVjZvVnFqRWtpbUg2TjU3YXh3Z3pqZ0YydzVnb3hrcmt5cFl1eEM2OXRMa29KRTVhemJlVnRqaDd2aVNHZE84czk1Z2w4ZGtsc0Nz?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Declaración conjunta de los ministros de Exteriores de Emiratos Árabes Unidos y varios países árabes e islámicos sobre las continuas violaciones israelíes en la Franja de Gaza - Emirates News Agency",
+        "title": "Declaración conjunta de los ministros de Exteriores de Emiratos Árabes Unidos y varios países árabes e islámicos sobre las continuas violaciones israelíes en la Franja de Gaza - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-08-06",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkpXLU11d2w2WDBSbm5fRVVqc1M0a1VsZVdjbGp0akREbTBlY0ZGTlEyQmdTMVowSU5PaWM4bW1MbkZDOWtaRjFWMHhDVjZvVnFqRWtpbUg2TjU3YXh3Z3pqZ0YydzVnb3hrcmt5cFl1eEM2OXRMa29KRTVhemJlVnRqaDd2aVNHZE84czk1Z2w4ZGtsc0Nz?oc=5",
         "priority": "normal"
     },
     {
-        "id": 4,
-        "source": "Emirates News Agency",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFp0M2ZaN3MzNzBqcUZRaWRaRlpkbEJ2QklzNVZZSVNWSHE5WXgzVm14eXpVV2s0X3NTVnpQVW00MWpyQmR0T3JUVGE0V1Jncko0X1JXRW5zemw2dU5aU20yZmhlQXZfS3FkZFFVVjlzTGthdVRpbHFFRENZamIzWE5scXZKNEhZd0dYVg?oc=5",
+        "id": 3,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPczItZkZuSVA2d24yZ3dWdmc0THM1XzNsd2t6R2Z4TEdVbzZVSkRpVFhaZU1vZXdnTG1tdXRlLW9uN1g5Ti1hRzZLai12SzNJVzBzRHY3NmxLM3FWeG1oaE9QWmY5VTQ3MWZjalVMQm5PaGxfM3c3djE5VzQta1Y2ZGNvNzBRLWc?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Emiratos Árabes Unidos conquista 16 medallas en el Campeonato Árabe Juvenil de Ajedrez - Emirates News Agency",
+        "title": "Ras al Jaima atrae inversiones por valor de 771,5 millones de dirhams en el primer semestre - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-08-05",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFp0M2ZaN3MzNzBqcUZRaWRaRlpkbEJ2QklzNVZZSVNWSHE5WXgzVm14eXpVV2s0X3NTVnpQVW00MWpyQmR0T3JUVGE0V1Jncko0X1JXRW5zemw2dU5aU20yZmhlQXZfS3FkZFFVVjlzTGthdVRpbHFFRENZamIzWE5scXZKNEhZd0dYVg?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 5,
-        "source": "Emirates News Agency",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2M4YURvYWNlLWRKNS1VNXd1VUFmMHJ1ZEoyMlhYN1Zaa3Bpd1djdllWNTIxOFVSNlVWbGJtM3h5anVXRXN0bGVRSkhoanRhSF9jZmNrQlJiaUdHNG5Ga3ZwbGM0cjdpcGRSbVAtUjJ1LXpuVGxPcGVtTV9YLWpVTWdKV2NfdXlmTzNZ?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Qasr Al Watan, entre las 100 mejores experiencias turísticas del mundo en 2026 - Emirates News Agency",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-08-05",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2M4YURvYWNlLWRKNS1VNXd1VUFmMHJ1ZEoyMlhYN1Zaa3Bpd1djdllWNTIxOFVSNlVWbGJtM3h5anVXRXN0bGVRSkhoanRhSF9jZmNrQlJiaUdHNG5Ga3ZwbGM0cjdpcGRSbVAtUjJ1LXpuVGxPcGVtTV9YLWpVTWdKV2NfdXlmTzNZ?oc=5",
+        "date": "2026-08-06",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPczItZkZuSVA2d24yZ3dWdmc0THM1XzNsd2t6R2Z4TEdVbzZVSkRpVFhaZU1vZXdnTG1tdXRlLW9uN1g5Ti1hRzZLai12SzNJVzBzRHY3NmxLM3FWeG1oaE9QWmY5VTQ3MWZjalVMQm5PaGxfM3c3djE5VzQta1Y2ZGNvNzBRLWc?oc=5",
         "priority": "normal"
     }
 ]
