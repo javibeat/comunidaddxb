@@ -2,18 +2,6 @@
     {
         "id": 1,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEVmRkFQUHpTem91R0s2SlhKcXRIVGs2WHRxTWFQZjVUV044cTBkX1drd0dRaTNyZkE5V0VCQk42SWZGRWI3bmFOc29YWmlNZ1g0d3Y0ZF9jZjFYcDNlQ1ZpQ0diVFNUVVpna2Z5SHJadWtLMl9pRFFlc0V0bnBESGJpZk96UDgzbVNiQjNFMVB6VVpEVHBjTmI1MlUxaWFkdnNhWGJxMA?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El petróleo cierra con signo mixto; el Brent se sitúa en 95,52 dólares por barril - وكالة وام",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-03",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEVmRkFQUHpTem91R0s2SlhKcXRIVGs2WHRxTWFQZjVUV044cTBkX1drd0dRaTNyZkE5V0VCQk42SWZGRWI3bmFOc29YWmlNZ1g0d3Y0ZF9jZjFYcDNlQ1ZpQ0diVFNUVVpna2Z5SHJadWtLMl9pRFFlc0V0bnBESGJpZk96UDgzbVNiQjNFMVB6VVpEVHBjTmI1MlUxaWFkdnNhWGJxMA?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 2,
-        "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHpJN1NjeEpuLXVSRWplbzNiUGV0TGY3SVpkTUw3cEI0T0pMeWhQN1lrbzlNWDVESFMyZzV6ZHpnZzZLQ25vSkNRdzRLOUJRRmNMbUdZNTM4UVRYYm9USXZQVmhad2t0UUI5TGVpTUNtMUNjQ0lBS091Wlk4QTN6Mlktc00yMjJSMzhHRVU4T0pnSlpTcjdPVFh2aw?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -24,7 +12,7 @@
         "priority": "normal"
     },
     {
-        "id": 3,
+        "id": 2,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmI4OXE4dHlDbDgxdzYzZHZqRFdPLWh4TU9OQ0FDWS1URzdFT19CSERkZE1fdGNJMkpuYmRRbVd0Nk1oU0xWal9jZm5obkZtbkNfQXVtWTcwQlIzZFVTVUhyeG9ESTRpOG0yUnhyRVdpQ1BjNmlpNWt1TVdzd2lhSmdrT2hBTEZkVFFHY0Z1d2JJQUZObDRtc1I5X0ZVLVBnUzdDRGRRRkRfNmt2MUJDV1A4WQ?oc=5",
         "sourceIcon": "📰",
@@ -36,7 +24,7 @@
         "priority": "normal"
     },
     {
-        "id": 4,
+        "id": 3,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEVsMldmZVI2ekR1a1Zjczl4OWlWcHJqQjRHLTJxZGRjTmRlSVkyc0xabDVfQnF1YW04VDRsWGpicXZWSU5JSTh3ZS0wZFhkUEMyalNhdkNtLWkzRDlCUHg3VzFmNWM5TVRuNWNLT0JlV3F6ZEpjb3R2MkxWeEZtWlNMYllSYjdsc0U1NEMzSWRDTUZkTnc?oc=5",
         "sourceIcon": "📰",
@@ -48,15 +36,27 @@
         "priority": "normal"
     },
     {
-        "id": 5,
+        "id": 4,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFhvMXdNTFo3aWtjdUZPTVEwRVJ0SnlucDd5aHpSYkdfajNsSklHUUFqM0xua0JQckJnS01GSDE0T0VaUmp6dEsyNVo0VzZEbGxhS1Z0ZGpGSDNkUG9makZJR0ZwZ1FzOE1NVFlXT0p5bjl3RE5RTFhYc0tXVkRObUhRWnY2UDNtZ2N2bnpldFhVdVZSeG9EYzl2d2c?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHdqZWNjRzNkZWVTWDJfcE1nOV9jSUFnQ09aX3hvVzBiYW9WVUZDSlBEMThiWm16Tjdzb1dfZ2R6dzR3cG5MY2tMSHNNYWZsZVBKSGdqT2ppNXNFdlJrR01hYXJUVG45UFQzU0dJWGVfdENaVjc5d1lsNlFMTElTSE1MVlkxQ0FldDRERUxna1Y?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "El príncipe heredero de Fujairah recibe a los embajadores de India y Cuba - وكالة وام",
+        "title": "El presidente de EAU recibe las cartas credenciales de los nuevos embajadores - وكالة وام",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-03",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFhvMXdNTFo3aWtjdUZPTVEwRVJ0SnlucDd5aHpSYkdfajNsSklHUUFqM0xua0JQckJnS01GSDE0T0VaUmp6dEsyNVo0VzZEbGxhS1Z0ZGpGSDNkUG9makZJR0ZwZ1FzOE1NVFlXT0p5bjl3RE5RTFhYc0tXVkRObUhRWnY2UDNtZ2N2bnpldFhVdVZSeG9EYzl2d2c?oc=5",
+        "date": "2026-09-04",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHdqZWNjRzNkZWVTWDJfcE1nOV9jSUFnQ09aX3hvVzBiYW9WVUZDSlBEMThiWm16Tjdzb1dfZ2R6dzR3cG5MY2tMSHNNYWZsZVBKSGdqT2ppNXNFdlJrR01hYXJUVG45UFQzU0dJWGVfdENaVjc5d1lsNlFMTElTSE1MVlkxQ0FldDRERUxna1Y?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 5,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QLUs1UVVtMkpCRFpKTmg4RS1uSEwxdUdnY1BaTEY4d2R6LTM0V3RMTTRuZXItZkxKcm51OUFBNE5TVURpdXJnY1Z0aXA2QzJnTnlINFlDMU1kVlh6bUxQV2tuOFRlZ2gtc01mMVRIVkppS2dtSW9CVklZUQ?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "El oro se mantiene estable este viernes - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-09-04",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QLUs1UVVtMkpCRFpKTmg4RS1uSEwxdUdnY1BaTEY4d2R6LTM0V3RMTTRuZXItZkxKcm51OUFBNE5TVURpdXJnY1Z0aXA2QzJnTnlINFlDMU1kVlh6bUxQV2tuOFRlZ2gtc01mMVRIVkppS2dtSW9CVklZUQ?oc=5",
         "priority": "normal"
     }
 ]
