@@ -14,18 +14,6 @@
     {
         "id": 2,
         "source": "وكالة وام",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWZuS3RacXBFLThNLVBCWWZEbXFheENuY2lmNkFNTUhrQmU5YXNrYzhsRkNWR0xPeVJ6S3IxSzZWSlVUamV5OE9GbHRyWkNmZWhHelU3Q3dXaGJCWUJIb1lQM0RUeGVoVTNidm0zaG9RclBtcmMwdWhqdzJNS2YzRnpVYnhSNmE3LTVzWTVVOHhQZ2pqZ0RRdEc5cWFVdw?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El petróleo mantiene las subidas y el Brent supera los 100 dólares por barril - وكالة وام",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-09",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWZuS3RacXBFLThNLVBCWWZEbXFheENuY2lmNkFNTUhrQmU5YXNrYzhsRkNWR0xPeVJ6S3IxSzZWSlVUamV5OE9GbHRyWkNmZWhHelU3Q3dXaGJCWUJIb1lQM0RUeGVoVTNidm0zaG9RclBtcmMwdWhqdzJNS2YzRnpVYnhSNmE3LTVzWTVVOHhQZ2pqZ0RRdEc5cWFVdw?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 3,
-        "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3RscUlvRHBGMDFmWFl4cHJaUXlwc0pMMUt1ZFhHVGtZbHFlQzRhRWttYnlxUFNPS01zTUc5b1Z1aU5KNHVRMTlpQm9TUUdGZEY0NzZUVlppc2FUeTFOTTNMcUdxSnV1ZHZza012aUlad1pSbXI0YUlmdGZQVG5UWTFibjdWWkh3NGpERVlKZl9XTzlOZEhz?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -36,7 +24,7 @@
         "priority": "normal"
     },
     {
-        "id": 4,
+        "id": 3,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmRwQjhQb0F0LUpSZjVBRG9XQlhnTUkyZkpJeGdiM0duaXFWcFYwTDVSck03ZEVIYUJ5TEEwRlAzZWVhVTBTVEZhU1lVWU9odEFhaEpJTkhzSmdpd29ON1ZhTllLLWN2WlNiY2JtMlFsX3R6NkVkUXNFblhGdFJsRk5MbjlXb2tFLVBNam00dHZpa1RQTkh5WGxSOA?oc=5",
         "sourceIcon": "📰",
@@ -48,7 +36,7 @@
         "priority": "normal"
     },
     {
-        "id": 5,
+        "id": 4,
         "source": "وكالة وام",
         "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHkzekhOclpsSUhmOEF0S2R4UGhjT2VPaHJDTkk5N2Fnbnp0bUtwZlpWemJkNTQ5Rk9MNGlhX3hSSGlNV09nRXVDNWpZYm94RVRSVEJuOEtWTHN6NTh0c1V2a3UySUwzVzRNYldmT2IwR0FWZEgwSTdFcHRBbS1kNldsaFhoMExQa3p5ZnlmbUh4QQ?oc=5",
         "sourceIcon": "📰",
@@ -57,6 +45,18 @@
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-09-10",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHkzekhOclpsSUhmOEF0S2R4UGhjT2VPaHJDTkk5N2Fnbnp0bUtwZlpWemJkNTQ5Rk9MNGlhX3hSSGlNV09nRXVDNWpZYm94RVRSVEJuOEtWTHN6NTh0c1V2a3UySUwzVzRNYldmT2IwR0FWZEgwSTdFcHRBbS1kNldsaFhoMExQa3p5ZnlmbUh4QQ?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 5,
+        "source": "وكالة وام",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdm1PRmkwbDFObTI4UDZKX0FJT2FTWWFyQTc2eHZqeUdYaVd4NVhGS212SG80NG5qMEZseHJyMkZWVVNHbHVUdXMya21DX09UNFB5UVByVkpMeFJuSTNpb2lHYUZoUVNJdHVacmdpYndxRERQSzd2ZkpsaHlDb19HblJ3RTIzbmdfMHFqUTVGUjY4aWZIa016Wg?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "El equipo emiratí de búsqueda y rescate localiza a seis desaparecidos en Nepal - وكالة وام",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-09-10",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdm1PRmkwbDFObTI4UDZKX0FJT2FTWWFyQTc2eHZqeUdYaVd4NVhGS212SG80NG5qMEZseHJyMkZWVVNHbHVUdXMya21DX09UNFB5UVByVkpMeFJuSTNpb2lHYUZoUVNJdHVacmdpYndxRERQSzd2ZkpsaHlDb19HblJ3RTIzbmdfMHFqUTVGUjY4aWZIa016Wg?oc=5",
         "priority": "normal"
     }
 ]
