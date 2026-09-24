@@ -2,18 +2,6 @@
     {
         "id": 1,
         "source": "wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWluVmVwdERSd18zWXMybnl6MUpFTVdoQ0tWQWhFN1ZZb0VBbjBkel9WVFNYbnhXTmViSWpxN3hTWGdtS0ZzVzdRZkhvYWw4RVlzNG50a3Z6Y2VuaDVGX3lDX2tod3J0VU1uYjdlNGRVMWp1MUlUbHhsdzk2V3VXcDYtTkhwZ05IaUpGVFBDU3VCbW9SQ242ZEJ3?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El presidente emiratí, los gobernantes de los emiratos y varios jeques trasladan sus condolencias a Mohammed bin Rashid por el fallecimiento de Ahmed bin Rashid - wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-22",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWluVmVwdERSd18zWXMybnl6MUpFTVdoQ0tWQWhFN1ZZb0VBbjBkel9WVFNYbnhXTmViSWpxN3hTWGdtS0ZzVzdRZkhvYWw4RVlzNG50a3Z6Y2VuaDVGX3lDX2tod3J0VU1uYjdlNGRVMWp1MUlUbHhsdzk2V3VXcDYtTkhwZ05IaUpGVFBDU3VCbW9SQ242ZEJ3?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 2,
-        "source": "wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1htN0YtUW12eFNIa1RESHJTSUhaTU1yWi1IdFFMY0c1Q2NvR244QXJ3dWo3bUI3SFprS2tNcEJpMVVZa2xvWEp0ZWt4Nlo1OUtjbThfTFpWUU90VE5FMDdtTTk2UHNLSFl1c3R6dFlvQTltZlBaam5SQURrUmF1ZGVReTR3NnFVQXBBTWJ1NExSYlJ6YzNxYk5uSHlydw?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -24,7 +12,7 @@
         "priority": "normal"
     },
     {
-        "id": 3,
+        "id": 2,
         "source": "wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1BjbG9DXzl2WHNJdjhRb21LUkxNZ3R6RXJyYUJjZVN4emZYUVBZOWE4YlBaeU9lZEtCZEVrU280d1o4VkxsVG0xckFzM0RNeVJYV3VfbUlQc3AtUDV3OGxXQ1BpR0lDblIzYnJUNm9TcWIzQmZfX3lZOF90RHd4aEtZZFBDbm9RamgtcWg2UDVRajNHZHUtRGtqMU9lTTZlSnItcVhVMA?oc=5",
         "sourceIcon": "📰",
@@ -36,27 +24,15 @@
         "priority": "normal"
     },
     {
-        "id": 4,
+        "id": 3,
         "source": "wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfeFpQaTdiaVVRNXdRSFVmVjdUY05NRmZVX2EySHFyLWZ3aG4xVF8tR1hiUDNSdGxDNGdfWDhJdExzZw?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUxaQ0p2OUVLaVIySlZ0UEp4ekllcXpKT05CVGNyUXQ2aElKc2tvRUM3TXI3bG9XVXljNjZzOHc5M1VXazhuQ3FUZjBLZ2g2cjI2U0lqNlVUWGVRNXNUUzQ3dmRBcF91RFgtNnR1NktuVlJfemVqd0pMT21aRC16LUtFSWZYVFNHbHRMNjJDTTQzU1QwYXpv?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Abdullah bin Zayed participa en una reunión de Trump con líderes árabes e islámicos al margen de la Asamblea General de la ONU - wam.ae",
+        "title": "Abdullah bin Zayed se reúne con ministros de Exteriores y altos cargos en Nueva York - wam.ae",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-22",
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfeFpQaTdiaVVRNXdRSFVmVjdUY05NRmZVX2EySHFyLWZ3aG4xVF8tR1hiUDNSdGxDNGdfWDhJdExzZw?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 5,
-        "source": "wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFo3VmViMFppRWR2OGQ3LW1ia1VhOVpuZ1ZGVUJmbUUyLVpfWFgwTGdZcmZYVEtiN24xaE9rc1Z5UEwydFBLSXdDN0tILUZPdkZpQzlnNjZDVTczVXF1V1M1U1p3bXBqb05yek00VUctcEdlTlpWbHg3Y2lfMHJxaHZVNTAtYm5UTV9V?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El subsecretario de Exteriores recibe una copia de las cartas credenciales del embajador de Sudáfrica - wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-22",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFo3VmViMFppRWR2OGQ3LW1ia1VhOVpuZ1ZGVUJmbUUyLVpfWFgwTGdZcmZYVEtiN24xaE9rc1Z5UEwydFBLSXdDN0tILUZPdkZpQzlnNjZDVTczVXF1V1M1U1p3bXBqb05yek00VUctcEdlTlpWbHg3Y2lfMHJxaHZVNTAtYm5UTV9V?oc=5",
+        "date": "2026-09-23",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUxaQ0p2OUVLaVIySlZ0UEp4ekllcXpKT05CVGNyUXQ2aElKc2tvRUM3TXI3bG9XVXljNjZzOHc5M1VXazhuQ3FUZjBLZ2g2cjI2U0lqNlVUWGVRNXNUUzQ3dmRBcF91RFgtNnR1NktuVlJfemVqd0pMT21aRC16LUtFSWZYVFNHbHRMNjJDTTQzU1QwYXpv?oc=5",
         "priority": "normal"
     }
 ]
