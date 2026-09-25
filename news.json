@@ -14,18 +14,6 @@
     {
         "id": 2,
         "source": "wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVBKeTEtVWhZTzBlMGNJSzU5UHEyMWdZTm9CdE5EejBOblpGNXRnN29fajVfcmZPNm5udlctT2NaX3BxU2cyM0xFeHlYSTZmLW5NT0pwbnhndS0xX3RfTVRoQ194OHlCbTNNUGJLN29hYTdpc3N2NVVWUHM1VnJ3ZTVXV09uQmxzZHJJOQ?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Las reservas de crudo de Estados Unidos aumentan y las de gasolina caen - wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-24",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVBKeTEtVWhZTzBlMGNJSzU5UHEyMWdZTm9CdE5EejBOblpGNXRnN29fajVfcmZPNm5udlctT2NaX3BxU2cyM0xFeHlYSTZmLW5NT0pwbnhndS0xX3RfTVRoQ194OHlCbTNNUGJLN29hYTdpc3N2NVVWUHM1VnJ3ZTVXV09uQmxzZHJJOQ?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 3,
-        "source": "wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFF1bVowanh1YmgwYUdDcHMyd0xrZUZmcnk5MHVkaXMtWVdLM181QU1KWk9jSTg2XzM2VWZ1bDVIc3NxUVJWS3V3a0otcUxxUWY5Yk1ucFJ3dmh1MzViODMxMEpsLVZYX09sNWV2TDRSQy1CUG5oNEJuTXZQaDFPR3diVzNJVURBb1dsWE53bmJvQmVpeGE2NjNR?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -36,19 +24,7 @@
         "priority": "normal"
     },
     {
-        "id": 4,
-        "source": "wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1FBYmhkQjdQQ0VMaU9xMEdHb0xCREFtd0hvTkg0RWdjTnZnbzZSeVhjd210dDdCRkdabF9Ob0w2UkJrcWpwclh5V1Q2R1duRXgyM2xPdnY3dV93ejAySzgtMnZiNVhpSUd6dnFJcDNIanRma043RGI4ZWlLQjRjRjJlT2ZvQ084VS1XYVJGZzR6UDhDM3IydVh0dlI0amtRMHF2YmdfQWFjSWlDNTRlaWwwdUE?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Emiratos y África: construir un futuro común a través de las alianzas y la inversión - wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-23",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1FBYmhkQjdQQ0VMaU9xMEdHb0xCREFtd0hvTkg0RWdjTnZnbzZSeVhjd210dDdCRkdabF9Ob0w2UkJrcWpwclh5V1Q2R1duRXgyM2xPdnY3dV93ejAySzgtMnZiNVhpSUd6dnFJcDNIanRma043RGI4ZWlLQjRjRjJlT2ZvQ084VS1XYVJGZzR6UDhDM3IydVh0dlI0amtRMHF2YmdfQWFjSWlDNTRlaWwwdUE?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 5,
+        "id": 3,
         "source": "wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0paM05ZdEllMW5QVjJySmRsa2czT3l5UjNzZHhrekoyM1AwTHdUbzBidHV0d3pGUEFpTGUyQXpRV2dDcF9oRFZqZFJHUHMtYVFxTENYc29vX3JidlRtNGZxMGVCQXllMlpENnVoLUxtNXNBMXFFM2RHbVM0dWFWU0hjWlloVWRpczdxNTBGNnpnWHJU?oc=5",
         "sourceIcon": "📰",
@@ -57,6 +33,30 @@
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-09-24",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0paM05ZdEllMW5QVjJySmRsa2czT3l5UjNzZHhrekoyM1AwTHdUbzBidHV0d3pGUEFpTGUyQXpRV2dDcF9oRFZqZFJHUHMtYVFxTENYc29vX3JidlRtNGZxMGVCQXllMlpENnVoLUxtNXNBMXFFM2RHbVM0dWFWU0hjWlloVWRpczdxNTBGNnpnWHJU?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 4,
+        "source": "wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXhTbkdSVndSLThwZEMxWEpXZFROcGxaZzNIN0ZDQVpqdnc4TWItQjZ5OVpRWmNnZVpraU9HMVFEQ3VVZTVjTlJzQmtlR3pyakpYdldnekZlMFRBVExsaE9QZjFJb3ZycWh3ckFxekhvbXR1Y1dEY2VzSndZNllzeXlMNTUydkJLTGgyZC1WRmhkZ2ZiNmtDbVdJOUhaZTBKcUE?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Los líderes de Emiratos Árabes Unidos felicitan al presidente de transición de Guinea-Bisáu por el Día de la Independencia - wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-09-24",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXhTbkdSVndSLThwZEMxWEpXZFROcGxaZzNIN0ZDQVpqdnc4TWItQjZ5OVpRWmNnZVpraU9HMVFEQ3VVZTVjTlJzQmtlR3pyakpYdldnekZlMFRBVExsaE9QZjFJb3ZycWh3ckFxekhvbXR1Y1dEY2VzSndZNllzeXlMNTUydkJLTGgyZC1WRmhkZ2ZiNmtDbVdJOUhaZTBKcUE?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 5,
+        "source": "wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXU0VlAxYVAtR2tlUS1KalA1ZHk0VzNYa2IwYlVINlJGbUNsTjNSUEF5aXd1SE55YjNjcWQ3VHdoVjNTMkpyQnZ3MExZSWZmOERHRmFadkdoQUJLU2NwWFVmX3JZc3lubmh0NjVkSE93azZhYmo0eFM4eW1jeTZoekQwS2JHNVQxUDR4T3RoUGhnUy1ST2xvVjdqWEtLTzZERFpjVmJWaExuZFda?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "El petróleo baja y el Brent se sitúa en 102,13 dólares por barril - wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-09-24",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXU0VlAxYVAtR2tlUS1KalA1ZHk0VzNYa2IwYlVINlJGbUNsTjNSUEF5aXd1SE55YjNjcWQ3VHdoVjNTMkpyQnZ3MExZSWZmOERHRmFadkdoQUJLU2NwWFVmX3JZc3lubmh0NjVkSE93azZhYmo0eFM4eW1jeTZoekQwS2JHNVQxUDR4T3RoUGhnUy1ST2xvVjdqWEtLTzZERFpjVmJWaExuZFda?oc=5",
         "priority": "normal"
     }
 ]
