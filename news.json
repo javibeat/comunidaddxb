@@ -26,18 +26,6 @@
     {
         "id": 3,
         "source": "wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0xoZjNkUmk1eG5PWG41ZEYwSEMxVlFRU2xzSDY5TDJMaGNLbnNKa2dvaVZselVRX1RaTVM5SVk4Uk5CZ2t6MXdCbW5pTVRIejRWYlBDTjV5Qm9rMW1XWjNoUk5oSmlRV3NpMHc1SjZ0TW1qcUtyQllQWkFpWi1Cc3NkTFo2MUx1ekFXWXB3?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Mohammed bin Rashid recibe las condolencias del príncipe heredero saudí por el fallecimiento del jeque Ahmed bin Rashid - wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-09-24",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0xoZjNkUmk1eG5PWG41ZEYwSEMxVlFRU2xzSDY5TDJMaGNLbnNKa2dvaVZselVRX1RaTVM5SVk4Uk5CZ2t6MXdCbW5pTVRIejRWYlBDTjV5Qm9rMW1XWjNoUk5oSmlRV3NpMHc1SjZ0TW1qcUtyQllQWkFpWi1Cc3NkTFo2MUx1ekFXWXB3?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 4,
-        "source": "wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamFFb1NCeW1YOUhLMVB6ZXlKNXRaNVFBMHpkTDVJUVV3aVNrZzBYdjZOYVFudzNqdTZTOEpGbUR6akdtMmRrVnhVeDl4dmsxOTFHUzFTVXJoSEYwRWtZcVpkcnVXZ29XdFB6QURaN2RQYmQ5ZTBiSTl5MGxzSC1IZXVCd3NVM3NDMEhkcVBn?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -48,7 +36,7 @@
         "priority": "normal"
     },
     {
-        "id": 5,
+        "id": 4,
         "source": "wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkVFQmhZaU51c0xvT3dxeEFUNUdwTTI2Ym9uWGJpTzFlOUQ4aEZCRTZ2STJPZ0FvczBtXy00ZE5acDQ0V0E3Xzh4Z2E2UjhZeVhOekRoS3VsNTUtek9wSE9IMV9wZWZnS1N5UE5ISTI5OUNUZDdoY3hiM0ZDWXVBN0xnRnJlcHV2dmJYay1vLVpXQnN4dDhwSUN3alJYV2hDV3RHajFOVDA?oc=5",
         "sourceIcon": "📰",
