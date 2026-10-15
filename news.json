@@ -2,13 +2,25 @@
     {
         "id": 1,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUU3MkhoSnpqUVpJWFZ2YTRNMmQ2MUNOMjlWV0psRmFmNkZLQXFiSy1zVnR5OWU0cjcyVlpwWkozV1dUTWU5cXRJVHpkdlZ4aTRTWEFwWHFmUHA0azNHbl8xaV9JLVg3UTRHdlBUaU5vODBzbXVIamZxMlZoa0VIODFsdnZhVlhrb3puU3ZlR1lKM0JhRXc?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmZJUFdjVkJzU0ltSk5uZkxhWGw3WGxtZ3M4ZGJLZmhCbmZMU0MyZkxHZUpKZ2ZhaU43eHBldXlKVlcySE5jcF9DaUxBbDFZbVlPUkkyTWhmYkVVMjVvdFlyd2tWYUZHRnkxUW44aGJoaF9ISXZaSUhqcURFY200aDBFYkY2cmhIU0FtVXlMNC1NcHE5ZExuSUNB?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "El Brent cae hasta los 103,18 dólares por barril - www.wam.ae",
+        "title": "Mohammed bin Rashid se reúne con Mansour bin Zayed en Al Marmoom - www.wam.ae",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-10-12",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUU3MkhoSnpqUVpJWFZ2YTRNMmQ2MUNOMjlWV0psRmFmNkZLQXFiSy1zVnR5OWU0cjcyVlpwWkozV1dUTWU5cXRJVHpkdlZ4aTRTWEFwWHFmUHA0azNHbl8xaV9JLVg3UTRHdlBUaU5vODBzbXVIamZxMlZoa0VIODFsdnZhVlhrb3puU3ZlR1lKM0JhRXc?oc=5",
+        "date": "2026-10-14",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmZJUFdjVkJzU0ltSk5uZkxhWGw3WGxtZ3M4ZGJLZmhCbmZMU0MyZkxHZUpKZ2ZhaU43eHBldXlKVlcySE5jcF9DaUxBbDFZbVlPUkkyTWhmYkVVMjVvdFlyd2tWYUZHRnkxUW44aGJoaF9ISXZaSUhqcURFY200aDBFYkY2cmhIU0FtVXlMNC1NcHE5ZExuSUNB?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2xRVXprVVN0WEV4UnZPbmdDQjAwbFlGX3NYcmwtTUdqQ2ZVY2xMX3V3LW84R2dTVDJOelV0ZE15M0VWdHFaTFJ5VVdMM0ctdkN0RmhnNVdZa2xQbEZaOUQ5UndnclpiRWJhV0YyN0YtVFVVcnhPQk9BUFd5TXJKUXN0bEdhZWFxNUhENlpKaFBFNzVRQVE?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "El Brent cae hasta los 104,67 dólares por barril - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-10-15",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2xRVXprVVN0WEV4UnZPbmdDQjAwbFlGX3NYcmwtTUdqQ2ZVY2xMX3V3LW84R2dTVDJOelV0ZE15M0VWdHFaTFJ5VVdMM0ctdkN0RmhnNVdZa2xQbEZaOUQ5UndnclpiRWJhV0YyN0YtVFVVcnhPQk9BUFd5TXJKUXN0bEdhZWFxNUhENlpKaFBFNzVRQVE?oc=5",
         "priority": "normal"
     }
 ]
