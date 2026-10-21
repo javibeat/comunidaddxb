@@ -2,13 +2,25 @@
     {
         "id": 1,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSlV4Mm1scFpWN19LOW9lWk9MMDR2aVdwekN2dkR3ZnVjcFF6SjB2U2xEMnNmM2xFeDB3bDNLWHBsZWpTNG41dWNnMjg0STNGZDdVQ2Nqbi03NHZ5bkNYY054VTZ6dUZIZ0hxUU1VVFFsM1hwNXpzYmJvMlRON3h6eC1GZzRNTlRMZTNNNjJR?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEFBS1dyN2tFQmdLYmFUeDc0anZiVUFON3k2ZHd2SEJIWDQyWURNSkdwQVZvVVkteUFSWV9xVzNXWTZiY2l2VlRENTBPaFBJb081RlFMSVZ4MmVSWEhvQ3Q1X29EWWl6dDNWR1htaDlmSU5lbmZvcnQ3b3BMX2ZsVlhoZEVtNU00c1NkYTFPTlgydw?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Los presidentes de Emiratos y Francia visitan el Parque Industrial Tawazun en Abu Dabi - www.wam.ae",
+        "title": "McNulty cierra la temporada del UAE Team Emirates-XRG con una victoria en la Veneto Classic - www.wam.ae",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-10-20",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSlV4Mm1scFpWN19LOW9lWk9MMDR2aVdwekN2dkR3ZnVjcFF6SjB2U2xEMnNmM2xFeDB3bDNLWHBsZWpTNG41dWNnMjg0STNGZDdVQ2Nqbi03NHZ5bkNYY054VTZ6dUZIZ0hxUU1VVFFsM1hwNXpzYmJvMlRON3h6eC1GZzRNTlRMZTNNNjJR?oc=5",
+        "date": "2026-10-21",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEFBS1dyN2tFQmdLYmFUeDc0anZiVUFON3k2ZHd2SEJIWDQyWURNSkdwQVZvVVkteUFSWV9xVzNXWTZiY2l2VlRENTBPaFBJb081RlFMSVZ4MmVSWEhvQ3Q1X29EWWl6dDNWR1htaDlmSU5lbmZvcnQ3b3BMX2ZsVlhoZEVtNU00c1NkYTFPTlgydw?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZC03LXFUZ0hOaFltbl93a240cU0wZ0R2c29tY0NGWFpnWUxHdzktUnBmcXdiNmFPUGZ3Z3pHSlY1YWdWTWJBR2hUVVYxb1FJOVhDTEJDT0lBXzlDZExSX3F3ZlotUTBqb3kydzFQeFM5Vk5sRWEtaFJ1S2RPVE5YQzlBcllNR2xlMThxbQ?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "El presidente emiratí recibe al primer ministro de Singapur - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-10-21",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZC03LXFUZ0hOaFltbl93a240cU0wZ0R2c29tY0NGWFpnWUxHdzktUnBmcXdiNmFPUGZ3Z3pHSlY1YWdWTWJBR2hUVVYxb1FJOVhDTEJDT0lBXzlDZExSX3F3ZlotUTBqb3kydzFQeFM5Vk5sRWEtaFJ1S2RPVE5YQzlBcllNR2xlMThxbQ?oc=5",
         "priority": "normal"
     }
 ]
