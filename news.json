@@ -2,13 +2,49 @@
     {
         "id": 1,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGRaQTlXb3RyYm5EQzVRNHhNLVFWTjJWU3QwM2NUaVRtTXFvVEJ1Zmx3VC1oUkEzQjZSZDdnWDlJeUsxM01RcGprYW9xWTdVUU9ScjhIRFB5RWUtUlJXajl3eTBJWmFqV29lNnB0c2FGSGVMWlRLWkFvRDFsV3VuYmN3cmNBaU5BVkNrM3d5cUZDV0VvdnV4THRiNEY4ODIw?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORGNGeHZJN3NKenVZM3JpR2NCNTMzLUlWbEdvRkZzRHQtM3JEMTNBZU5MOVp2NXRCRjlVVDV3NTJaa2c1MFZ5ME9jUXh3YkU3dFh5cktlQ0o5RlFKSVVvRWhqYUpkd1dHemJES2NsRC12cmR6QkhRcmcyUmwtbUlVUHlPeWFuemd1SXBXS0E4aWxXZFZtd1FHYlJuM0M?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "El pabellón alemán en ADIPEC 2026 reúne a 87 empresas y 202 innovaciones - www.wam.ae",
+        "title": "Emiratos condena el intento de los hutíes de atacar varias zonas de Arabia Saudí - www.wam.ae",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-06",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGRaQTlXb3RyYm5EQzVRNHhNLVFWTjJWU3QwM2NUaVRtTXFvVEJ1Zmx3VC1oUkEzQjZSZDdnWDlJeUsxM01RcGprYW9xWTdVUU9ScjhIRFB5RWUtUlJXajl3eTBJWmFqV29lNnB0c2FGSGVMWlRLWkFvRDFsV3VuYmN3cmNBaU5BVkNrM3d5cUZDV0VvdnV4THRiNEY4ODIw?oc=5",
+        "date": "2026-11-09",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORGNGeHZJN3NKenVZM3JpR2NCNTMzLUlWbEdvRkZzRHQtM3JEMTNBZU5MOVp2NXRCRjlVVDV3NTJaa2c1MFZ5ME9jUXh3YkU3dFh5cktlQ0o5RlFKSVVvRWhqYUpkd1dHemJES2NsRC12cmR6QkhRcmcyUmwtbUlVUHlPeWFuemd1SXBXS0E4aWxXZFZtd1FHYlJuM0M?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjk2cy1ubGkxVVF5aG9RUjM3MWZFS3pDZnRlaF84c0FmVmhldnpZdldQb0o0Ny10M2tFWlVMQXBCWDBORGdVTWZmR08zVUZwbmVfOGhXSktiLW8wbXZ2TDZaOFJ3ektsSXoyRlU1VTZoejJoMEk4b3FWQk45NDhSVVVaR1RmZXhNVDNiZW5sRVNfWE92RUVlbXJCREJsUjdOTVhsdl9B?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Los líderes emiratíes felicitan al rey de Camboya por el Día de la Independencia - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-11-09",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjk2cy1ubGkxVVF5aG9RUjM3MWZFS3pDZnRlaF84c0FmVmhldnpZdldQb0o0Ny10M2tFWlVMQXBCWDBORGdVTWZmR08zVUZwbmVfOGhXSktiLW8wbXZ2TDZaOFJ3ektsSXoyRlU1VTZoejJoMEk4b3FWQk45NDhSVVVaR1RmZXhNVDNiZW5sRVNfWE92RUVlbXJCREJsUjdOTVhsdl9B?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 3,
+        "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUFwelhMWGNQWmxJMFhrVHNKeUx3RmVWTmg5UXA0WHgtSy02VDBEYnBBLVdzcHRoekRqb0hkRWJFdXgzenhma1dwRjc5OVhhU0xrMkppcW1rOE1abFRRV2ZrRE5EOTYyN2dXckJXOWcxaWVBYWpuemRIT3ZadUM1MVJkQ0JsSzhldzhHWENPOUU?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Noura Al Kaabi se reúne con el presidente de Palaos para reforzar los vínculos bilaterales - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-11-09",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUFwelhMWGNQWmxJMFhrVHNKeUx3RmVWTmg5UXA0WHgtSy02VDBEYnBBLVdzcHRoekRqb0hkRWJFdXgzenhma1dwRjc5OVhhU0xrMkppcW1rOE1abFRRV2ZrRE5EOTYyN2dXckJXOWcxaWVBYWpuemRIT3ZadUM1MVJkQ0JsSzhldzhHWENPOUU?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 4,
+        "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkxvN2Utak1oejNrclRKeUgwQUJyeXlFQ2JTdndvSTVMc2Q1VlhXTkxjdkZKMVlCazFISGdtdms3anVYWGl0ajN4RW91Y3Z2RWp4VjJHcElpNW5pNXZTUGZ0clQ4SU1pekJ5cGt3TzNWUFRKYkJWcGdoYWdjb1JoMjVDUS11ODFCblN3UnNn?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Noura Al Kaabi recibe al ministro de Exteriores, Comercio Internacional y Cooperación de Surinam - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-11-09",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkxvN2Utak1oejNrclRKeUgwQUJyeXlFQ2JTdndvSTVMc2Q1VlhXTkxjdkZKMVlCazFISGdtdms3anVYWGl0ajN4RW91Y3Z2RWp4VjJHcElpNW5pNXZTUGZ0clQ4SU1pekJ5cGt3TzNWUFRKYkJWcGdoYWdjb1JoMjVDUS11ODFCblN3UnNn?oc=5",
         "priority": "normal"
     }
 ]
