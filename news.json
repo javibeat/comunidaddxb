@@ -2,30 +2,6 @@
     {
         "id": 1,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVENhX3haZHpuM2ZPSHFOMDd2XzNOUzlQdm1uSmVfdVVEbkFEaFUxU2dtZTlyTlA2U0FMQkRzcUQ2dXpQaE9YUzhOOVhZbGRCV1pkTDZBcXljVTVuUnlkWl9CUVVYY2NmZ29PQlMwN0dUc0Z5OEFWU2JEbTJfNXlvUWFBMENzUFFKTjM4MFkyUFk5UQ?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Abdullah bin Zayed asiste al 15.º aniversario de la apertura de la Embajada de Luxemburgo - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-12",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVENhX3haZHpuM2ZPSHFOMDd2XzNOUzlQdm1uSmVfdVVEbkFEaFUxU2dtZTlyTlA2U0FMQkRzcUQ2dXpQaE9YUzhOOVhZbGRCV1pkTDZBcXljVTVuUnlkWl9CUVVYY2NmZ29PQlMwN0dUc0Z5OEFWU2JEbTJfNXlvUWFBMENzUFFKTjM4MFkyUFk5UQ?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 2,
-        "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemwtM0ZpY1ZjNmNZaHVVRWRTdFFSOEJvbjJwSGdiYmR1d25BdGxPMy1TZ1JWZC0xXzdtX0sxaTY5ZGNPZ2hrT18zYkR0TkVGSW9PR1c4Q3pvbjJ2VURhazhCTUxJaDVLMWNGdzVjTXMySWlqd0I2Q1lDNDFPaEUzeXZfUTRiMVRlV3lEUndjbzFLUWtTam92M3VncGRMUQ?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Más de 100 embajadores y diplomáticos se reúnen para preparar la Cumbre Mundial de Gobiernos de 2027 - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-12",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemwtM0ZpY1ZjNmNZaHVVRWRTdFFSOEJvbjJwSGdiYmR1d25BdGxPMy1TZ1JWZC0xXzdtX0sxaTY5ZGNPZ2hrT18zYkR0TkVGSW9PR1c4Q3pvbjJ2VURhazhCTUxJaDVLMWNGdzVjTXMySWlqd0I2Q1lDNDFPaEUzeXZfUTRiMVRlV3lEUndjbzFLUWtTam92M3VncGRMUQ?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 3,
-        "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNamU2eDhodzNUNHZZcEh2YVhYUnhReG9VR3VjWFEtU1hRdUF0TFJucHpJbDdSYUZsSGVTay1OcjJTajB4Qlk4SmJ0alRYbmU0QUZpenBtak5oLXp3bExUYXktNlhxbXQwSXZnZ0RSdEFkSExiNDFYOHcxUWx2NGVyMjQxeXhURUpCZnNmcHllaWNKcnNVN2JNbFN1dFR4d0xZOHc?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -36,7 +12,7 @@
         "priority": "normal"
     },
     {
-        "id": 4,
+        "id": 2,
         "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjQ1REp0LVlXclo3Z1l1aXdKdWh2b01QcDlRanN4UEVMb1RBY2ItLXRweTNVUHVDUnVRUzU3YUQxU3owLVpNa3ZJX1YzNTNxc2tfQ0pncWtqWHZUYzV5dHpaZmQ5eVU2TmNZdkRFRmhjYTNTNzlTdWJucGVlRlYzYTlMa1htb3hEcVk2c1FMNA?oc=5",
         "sourceIcon": "📰",
@@ -45,18 +21,6 @@
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-11-13",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjQ1REp0LVlXclo3Z1l1aXdKdWh2b01QcDlRanN4UEVMb1RBY2ItLXRweTNVUHVDUnVRUzU3YUQxU3owLVpNa3ZJX1YzNTNxc2tfQ0pncWtqWHZUYzV5dHpaZmQ5eVU2TmNZdkRFRmhjYTNTNzlTdWJucGVlRlYzYTlMa1htb3hEcVk2c1FMNA?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 5,
-        "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVNTXzlXd21ZWFVhX21aalViT3F4RUxNWWotRFNQN1MzQ0F4amxiNmhxWF9pZmFTV3BWa21uZHQxLVJzbTBOeDlTOFBGV2RFOHBKbW11ZFhycjdkci12dzczVGZQSXFIZVFOWG9GT3VTWTNwTFRHNXh1N3VaR1hqUEdOblRQczlsRGFWTA?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Roberto Carlos y Fernando Hierro se incorporan como accionistas al Fursan Hispania FC - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-12",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVNTXzlXd21ZWFVhX21aalViT3F4RUxNWWotRFNQN1MzQ0F4amxiNmhxWF9pZmFTV3BWa21uZHQxLVJzbTBOeDlTOFBGV2RFOHBKbW11ZFhycjdkci12dzczVGZQSXFIZVFOWG9GT3VTWTNwTFRHNXh1N3VaR1hqUEdOblRQczlsRGFWTA?oc=5",
         "priority": "normal"
     }
 ]
