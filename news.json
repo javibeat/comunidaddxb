@@ -14,6 +14,18 @@
     {
         "id": 2,
         "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXhWcjhfUkZGU3lJVVU3cll6cWhhSjdPSGJoaktXck9HMXgzTFVOdE84Q0l1T0lIRjk3TmVGUDVlYUVpVUYtMDRZazRoVUFtSjRNdW0teWdremZGYXItLVpzRnFxR0FGOGFQaFA0U2NjbzFVS0dBSFdHbEphUjVjSklaU29OcEpBVVFLV29FeHN3Q19jd2FxdzJsbWRUdC0wRHRTelV6UWZrdw?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Emiratos y Omán abordan el refuerzo de la cooperación en asuntos religiosos - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-11-17",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXhWcjhfUkZGU3lJVVU3cll6cWhhSjdPSGJoaktXck9HMXgzTFVOdE84Q0l1T0lIRjk3TmVGUDVlYUVpVUYtMDRZazRoVUFtSjRNdW0teWdremZGYXItLVpzRnFxR0FGOGFQaFA0U2NjbzFVS0dBSFdHbEphUjVjSklaU29OcEpBVVFLV29FeHN3Q19jd2FxdzJsbWRUdC0wRHRTelV6UWZrdw?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 3,
+        "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjVxbVJ2WGJVa3FZZmlVYUtkcjk4LUVTM2J0T3FrWHhNU1dWVDlCaEdINUQ4M0hjZHN4WjVYbmdaZ20zaThiOGtHV3NmUlA4bUFXb2JQX2hUb3hfaUZDRWpIS3lieFlMOGRSUVlOYnpNY3NSMUJvTGIxZk5ZUjFpVHB5WEk0SHlpY0FwblV1UWUyTHhxVlFBZU9YT1dod3dnUE1PSDBB?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -24,39 +36,27 @@
         "priority": "normal"
     },
     {
-        "id": 3,
-        "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkV2WWFnRXRfMHYwVjI1M3JJZy1XQ3Y3NkhyQlo1VUx2ZDlzUGk3c2pDTFJYY1Jwclp4UE9MTzlxN1dWdFB4MWdUOG1OQWhqN3AxVGdQME5PRlAwaGVBVmhNOVNzaTlEVzJ1ZUx3R3NENF9OaGMyeEtOTUFsSXRuWFJVMjNFME5xWjB1NzhQSGd4bUhwQm5nczVPb01hLUZhckRV?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "El oro se mantiene cerca de mínimos de más de un año por la fortaleza del dólar - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-17",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkV2WWFnRXRfMHYwVjI1M3JJZy1XQ3Y3NkhyQlo1VUx2ZDlzUGk3c2pDTFJYY1Jwclp4UE9MTzlxN1dWdFB4MWdUOG1OQWhqN3AxVGdQME5PRlAwaGVBVmhNOVNzaTlEVzJ1ZUx3R3NENF9OaGMyeEtOTUFsSXRuWFJVMjNFME5xWjB1NzhQSGd4bUhwQm5nczVPb01hLUZhckRV?oc=5",
-        "priority": "normal"
-    },
-    {
         "id": 4,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd21Zam1oYlNIOHRTWVpJaEJ0b0hPeWFKVUozcU1LTlBhWFIwRWpZQTRza0R2cnhNWHpzWFlFRGVzZjVpYmJUa0FYRF9hSUhHNC01NjVrN3ZWNm1hdHNheF8tNHRaa25JclNXNktZNzZySWg0ZmFfM1RHd0NXUFpHR1FtYm1kU21lMnplcWhn?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdG1SMFlla3RmS25kVHV6bjVGVkdJSlNwVW51Uk0xZlJxMXpQZEdwM3RCUExEcnRfN3pYb2MtMl9ObmdNRDRDbmdPaGlQSnV0Sm55SDJUWXZyREJDZWtyTjgyRXZ6NmVXZ19EU1kwN1VoTElkSkVGc192WWllbjRtblVYMXBxT1pRS0d2X29ZOA?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Abu Dabi acogerá el 24 de noviembre la conferencia internacional sobre salud laboral e inclusión de personas con discapacidad - www.wam.ae",
+        "title": "Abdullah bin Zayed y el primer ministro de Catar abordan las relaciones bilaterales y la situación regional - www.wam.ae",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-11-17",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd21Zam1oYlNIOHRTWVpJaEJ0b0hPeWFKVUozcU1LTlBhWFIwRWpZQTRza0R2cnhNWHpzWFlFRGVzZjVpYmJUa0FYRF9hSUhHNC01NjVrN3ZWNm1hdHNheF8tNHRaa25JclNXNktZNzZySWg0ZmFfM1RHd0NXUFpHR1FtYm1kU21lMnplcWhn?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdG1SMFlla3RmS25kVHV6bjVGVkdJSlNwVW51Uk0xZlJxMXpQZEdwM3RCUExEcnRfN3pYb2MtMl9ObmdNRDRDbmdPaGlQSnV0Sm55SDJUWXZyREJDZWtyTjgyRXZ6NmVXZ19EU1kwN1VoTElkSkVGc192WWllbjRtblVYMXBxT1pRS0d2X29ZOA?oc=5",
         "priority": "normal"
     },
     {
         "id": 5,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDd4Yy1SVVhUVjFIdFNnT3ZvaU5OVjh0V0JLbXJCRUY2Nng2VWs1YXRmdjlMcHpOOV92R1BSVkgyb0Q2MWczOENUbTBLa1R6akdZRVNodm5UTjVUN2lLU2dXbk1vVlhzRmhzWWhta09BcVAydmQ4NnFqQzZYZjJTYVEtdlQyaFkzREotQzlJV0dseFV0NEtYQXJ2bFZyUQ?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2hnaTNZM3NCS2FSRnY0ZlVxOXlURlFvVXJsMUZLUy0zendJZE9NeG5kZmZPSGR0MWdCa0N5NU5GOU9MOFhKSnAzcC11ZkRIZnhsaXdDNGFfVWJkMEFPaV84TkdyMk9Ydy14M0w5OXRqVWZvcHFUcHYyaHNxcG0yMTNFOVZtRGUzWVotRQ?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "El petróleo baja y el Brent se sitúa en 92 dólares por barril - www.wam.ae",
+        "title": "Wall Street cierra con fuertes caídas - www.wam.ae",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-11-17",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDd4Yy1SVVhUVjFIdFNnT3ZvaU5OVjh0V0JLbXJCRUY2Nng2VWs1YXRmdjlMcHpOOV92R1BSVkgyb0Q2MWczOENUbTBLa1R6akdZRVNodm5UTjVUN2lLU2dXbk1vVlhzRmhzWWhta09BcVAydmQ4NnFqQzZYZjJTYVEtdlQyaFkzREotQzlJV0dseFV0NEtYQXJ2bFZyUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2hnaTNZM3NCS2FSRnY0ZlVxOXlURlFvVXJsMUZLUy0zendJZE9NeG5kZmZPSGR0MWdCa0N5NU5GOU9MOFhKSnAzcC11ZkRIZnhsaXdDNGFfVWJkMEFPaV84TkdyMk9Ydy14M0w5OXRqVWZvcHFUcHYyaHNxcG0yMTNFOVZtRGUzWVotRQ?oc=5",
         "priority": "normal"
     }
 ]
