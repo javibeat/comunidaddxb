@@ -2,18 +2,6 @@
     {
         "id": 1,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHltYjNxZjROdl9VMkE4SmlvckRQOVBmQ1FZV09rZURIZVdxT0VKc0VZMWtjRTAtQUJuSEtEa3hKU3ltZncyTWx4RGpmSDE2S3pnYmVJbUNQM1ZuanpLRlg3WWczdE9CbFlGUG5BX2VMMm45ZUZCaWRxRG9vcWtrSFdzOG5nVk0?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Wall Street cierra con fuertes caídas - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-17",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHltYjNxZjROdl9VMkE4SmlvckRQOVBmQ1FZV09rZURIZVdxT0VKc0VZMWtjRTAtQUJuSEtEa3hKU3ltZncyTWx4RGpmSDE2S3pnYmVJbUNQM1ZuanpLRlg3WWczdE9CbFlGUG5BX2VMMm45ZUZCaWRxRG9vcWtrSFdzOG5nVk0?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 2,
-        "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOW5yQkNSVjlyekdnZk5HRXNqcUY3anRLV0dPczF0dEZqMHUwRWFwd0NOWHlfUWJLZWpTa04xQ2dCMmw1eW1hVVRhLVphNVlXU0czS1JwRy1NZ2lSUElJX25CQkNEWVZfOEZ0T0FLaWM0TnVySWx2bmNlMmJuem9YSzdkUWJTZFhpTUNiT3BYeXQ?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -24,7 +12,7 @@
         "priority": "normal"
     },
     {
-        "id": 3,
+        "id": 2,
         "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMC0xY25UR0JxRHB0RGkwcDVIM1FhUGdlTzJqeHdpWEJGQVVlVFFfcG1NZnZsVkdubE1XQzQ3LVdab0pnZzBqc0xUeGpTRlRDZE1yR1JPT0xxYTlHOWZlZTg5MWNfWExoSVNISUQzRGVPQ2doeUx2NDRjZUREdnRSb3lFVWhoWVBiaXZRQjhYRTFTcEt6NHN1ZlRyaw?oc=5",
         "sourceIcon": "📰",
@@ -36,7 +24,7 @@
         "priority": "normal"
     },
     {
-        "id": 4,
+        "id": 3,
         "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSExwTXBRNW9hSE5ybXRGY2lyTVZPZjVub3oxcDBkMVgyblhjZFhuZXJsSDIwTXZxRHNqeWRKZEoycDg1bFhzS2ZNVlJ2cTFXUDZ5bV93ZG0ydmF5SHdwMkFqX3ktOWFiQndxcllKcjJ2dFNSVUZsYjVyTE1PQVlIelVmTUhlWHhkQTQzTDZOUl9VZw?oc=5",
         "sourceIcon": "📰",
@@ -48,7 +36,7 @@
         "priority": "normal"
     },
     {
-        "id": 5,
+        "id": 4,
         "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0VHbTUyM19pWmR2cDQ5NllhemZEaGZCeC1kcDVuWTJlSEM1UUQ2QnZ5TWZ2ajBabXJEMU94VFNndmNpdG5tdEd1LTdXOTdZbDZOU3ZVSWJyZXFOOWFuWHpFRTYxeUpCMVFQMGR6Wl9PbDlYYlpIcFBOS3VDWl9VcXVZM2FsR2pTSTRN?oc=5",
         "sourceIcon": "📰",
@@ -57,6 +45,18 @@
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-11-18",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0VHbTUyM19pWmR2cDQ5NllhemZEaGZCeC1kcDVuWTJlSEM1UUQ2QnZ5TWZ2ajBabXJEMU94VFNndmNpdG5tdEd1LTdXOTdZbDZOU3ZVSWJyZXFOOWFuWHpFRTYxeUpCMVFQMGR6Wl9PbDlYYlpIcFBOS3VDWl9VcXVZM2FsR2pTSTRN?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 5,
+        "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamtTRnp3WG1jSGR2Nkt2MEtJRG5wS0hVY050aExDSk1pdFg4SHVhcUpKb01HdnBHbnNPaEF6Z1Q5Y3RfdGg5TjlnOUZQcmxaSjd0VFUwMVJrc3libWhxQmlpWFlzOV8zbWwtdG9ibGhfMVdBYkdiblZyX0RfYXNBOG9FMmJmNmp4Yk1yOWZ3?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Wall Street cierra con resultados dispares: sube el Nasdaq y el Dow cae más de un 1% - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-11-18",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamtTRnp3WG1jSGR2Nkt2MEtJRG5wS0hVY050aExDSk1pdFg4SHVhcUpKb01HdnBHbnNPaEF6Z1Q5Y3RfdGg5TjlnOUZQcmxaSjd0VFUwMVJrc3libWhxQmlpWFlzOV8zbWwtdG9ibGhfMVdBYkdiblZyX0RfYXNBOG9FMmJmNmp4Yk1yOWZ3?oc=5",
         "priority": "normal"
     }
 ]
