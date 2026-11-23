@@ -14,6 +14,30 @@
     {
         "id": 2,
         "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEtYQzRrSUlJa1RJeU44SkwyN2tuUXp6QjZzYlZnWDhxTEhjckpiMHNxblBiNnloR2RFTjNiU05XaDVsZjJzQnJGT0lodldMQTlPVjk0OTNDdFU1Mkk2djdGc3lwaTVtZW9yVG5wSUROWkIyTWZ5ZXR3Wk9kWTE0YzB0UGJSODhfZ3BfMVBJS3BPcml0cjhz?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "La Autoridad Nacional de Medios acogerá mañana la 52.ª Asamblea General de FANA - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-11-23",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEtYQzRrSUlJa1RJeU44SkwyN2tuUXp6QjZzYlZnWDhxTEhjckpiMHNxblBiNnloR2RFTjNiU05XaDVsZjJzQnJGT0lodldMQTlPVjk0OTNDdFU1Mkk2djdGc3lwaTVtZW9yVG5wSUROWkIyTWZ5ZXR3Wk9kWTE0YzB0UGJSODhfZ3BfMVBJS3BPcml0cjhz?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 3,
+        "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODJXTExDWGZ5dkk2RGNRYksxNG9DU1Jqbk01SE16UGNJYzNUd045LXE3ODc1WmZUS1hKeXY0Mi1YZzZSbVgwUnpfNlZ6X3dqcWNwUUNNX1AwOFZCdGNmdGJFcXpHbmxZeHd0OElxVXZ0dkg3dEMwdmY5Yms5a2FlRVVPbFhnb2pTOW5rOURabkIydw?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "Emiratos expresa su solidaridad con Indonesia por las víctimas de un incendio en una fábrica - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-11-23",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODJXTExDWGZ5dkk2RGNRYksxNG9DU1Jqbk01SE16UGNJYzNUd045LXE3ODc1WmZUS1hKeXY0Mi1YZzZSbVgwUnpfNlZ6X3dqcWNwUUNNX1AwOFZCdGNmdGJFcXpHbmxZeHd0OElxVXZ0dkg3dEMwdmY5Yms5a2FlRVVPbFhnb2pTOW5rOURabkIydw?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 4,
+        "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUhqMzc1ZVo1d2RKZ1JEbFpwVDktTGl0cDJGSDJWQURpT2hicHlDWTRnanRpSzFuUDRfdjQ5TlhZLXJFYTY0a0g2WWNDLU1wMGtpbkVJd2ZBQmJTelF3eEZkNEhuX0dCWThkUXJYeXdSbXZRZGFWUl9rT0k4S0VfWlE1M0NaMlpsS2VfbWQtbXhmbWtWdUllNmZydzM1ZXQ5aVlwWmp2UGplVDgwcW5PR0tHRVc?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
