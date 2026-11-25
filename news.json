@@ -2,6 +2,18 @@
     {
         "id": 1,
         "source": "www.wam.ae",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFVpRmp2ZFJQTlMwSFg4dDM2VDBsVjFQdTdkU01jTUZmaTRBWkpxQzZONnBrT3FMeFRWVnpXUmI3SzZDNmRPYkJlc1R0Y3RaRTVoWUNLa1pfdGxtejdKTE9NYW5UelNHbUN3S19xZTdqS0x1Y2JfLUx2UjJJVXhhckpqa1o1VURSMmJGTWZZNmJBUTM4?oc=5",
+        "sourceIcon": "📰",
+        "category": "noticias",
+        "title": "El oro se mantiene estable a la espera de los datos de inflación de Estados Unidos - www.wam.ae",
+        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
+        "date": "2026-11-25",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFVpRmp2ZFJQTlMwSFg4dDM2VDBsVjFQdTdkU01jTUZmaTRBWkpxQzZONnBrT3FMeFRWVnpXUmI3SzZDNmRPYkJlc1R0Y3RaRTVoWUNLa1pfdGxtejdKTE9NYW5UelNHbUN3S19xZTdqS0x1Y2JfLUx2UjJJVXhhckpqa1o1VURSMmJGTWZZNmJBUTM4?oc=5",
+        "priority": "normal"
+    },
+    {
+        "id": 2,
+        "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEZMMmZCYm1aMnQ5dlpKQ244bTE5RTdSdVBYcnVuQXQycWFQaDRSRTBNaG5JdVhiaWd0YzBVMm1uR0NuMlp6VkpkZ3ROMllfM0pQTjdTNUdUejIzMHJicm1heVBtdExHQTNENlRQdm53cDI2WjJIZUVtaE5IdElheHVSVG9QeXo2YVJN?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
@@ -12,7 +24,7 @@
         "priority": "normal"
     },
     {
-        "id": 2,
+        "id": 3,
         "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc0tLbVVqM3lzMEZLUF8wX0RGeGVaWGZHYXU4SVp2NFhCdnVtT0ZRZ3lidHNrZlVFdk1RdlU3RThGV0Vjb3BOT1o2bnNzYW9xRENqTV95V2hQazhtb1U2ZFl4ZzFndW56NjhJZjhhZ0pxNHdyS2EzNVNhWVoyLUhya2NKVmw3Yk80alJpY28wckw?oc=5",
         "sourceIcon": "📰",
@@ -24,7 +36,7 @@
         "priority": "normal"
     },
     {
-        "id": 3,
+        "id": 4,
         "source": "www.wam.ae",
         "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTDV0TjNSeEF4dy0yeWtWbnEybEstcmFtTGhlNW04SmJaQm5lalBpeDhVTDZUT08zM1Q0TDRVeGlTdWtuSUNkeW1HamZ0YjY0TTZQNUR3eGNNYURGQ0lDald0emlWM1dkemdyV0xUNmZVZGFROWVGbVFzOEM4TGJsYm1wam1sekpFWk1xdzl3?oc=5",
         "sourceIcon": "📰",
@@ -36,27 +48,15 @@
         "priority": "normal"
     },
     {
-        "id": 4,
-        "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXE0NmZRV3NxQ2Nrek9MdjVNMlJ1SnhwVHhsVDhMUlpOX1hDcHZ2NDRlcF9hNkJxa1B2b0hmc25zTXRDY3NEcEZNdGpQaEVOMGRYa0RMd25ERXFNenBDOFRYT18tMTJHRGRKOTVMRlNNNENIMlpfaXVXdTJhVTJHOXV3bW9wcnJW?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Abdullah bin Zayed recibe al ministro de Finanzas e Ingresos Nacionales de Canadá - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-24",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXE0NmZRV3NxQ2Nrek9MdjVNMlJ1SnhwVHhsVDhMUlpOX1hDcHZ2NDRlcF9hNkJxa1B2b0hmc25zTXRDY3NEcEZNdGpQaEVOMGRYa0RMd25ERXFNenBDOFRYT18tMTJHRGRKOTVMRlNNNENIMlpfaXVXdTJhVTJHOXV3bW9wcnJW?oc=5",
-        "priority": "normal"
-    },
-    {
         "id": 5,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcm9ic2VfVEhsSmVoUHlMMnJUS004SWhfSFRoUk96SHRtaHduclZnckI3RE5Cb2hMdG5TbXNWcFMzcnNUY0M1bVYxVE0tV2Q1VnpCZC1Id3ZnX2Z6a01BUTlTYUpGTFdNSEdUSEpiQURLajZLaFR0VE5CWUYtSGc3ZHgyb0FkTW1SSHFjUmU0bUt5U0NEcVhWZkJpWk1LQzRLZHdrMThfUG9uNU1oc1pHYndlQmlpQQ?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVl3OW9DUUJWRTNjSnpOSEZvSlg5djVlSUJSdDFKeHRRS0l6dklESHJyaHNHMkRjU1dTN1ZXb3dBb0JqYnNjMUVvam83SHRGbXJrLVRkMUdRSWROOTY3cjhwWUlVYkRHSV9aR2JNb1B1UDNUNTBVMFZwM21LcE1TWEVwU2lsRjQ0MkdZMjI1eWlOR0ZTZlpteA?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Once muertos en una colisión entre un autobús y un camión en Ras al Jaima - www.wam.ae",
+        "title": "Emiratos celebra el acuerdo entre Kenia y la República Democrática del Congo para restablecer sus relaciones diplomáticas - www.wam.ae",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
         "date": "2026-11-24",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcm9ic2VfVEhsSmVoUHlMMnJUS004SWhfSFRoUk96SHRtaHduclZnckI3RE5Cb2hMdG5TbXNWcFMzcnNUY0M1bVYxVE0tV2Q1VnpCZC1Id3ZnX2Z6a01BUTlTYUpGTFdNSEdUSEpiQURLajZLaFR0VE5CWUYtSGc3ZHgyb0FkTW1SSHFjUmU0bUt5U0NEcVhWZkJpWk1LQzRLZHdrMThfUG9uNU1oc1pHYndlQmlpQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVl3OW9DUUJWRTNjSnpOSEZvSlg5djVlSUJSdDFKeHRRS0l6dklESHJyaHNHMkRjU1dTN1ZXb3dBb0JqYnNjMUVvam83SHRGbXJrLVRkMUdRSWROOTY3cjhwWUlVYkRHSV9aR2JNb1B1UDNUNTBVMFZwM21LcE1TWEVwU2lsRjQ0MkdZMjI1eWlOR0ZTZlpteA?oc=5",
         "priority": "normal"
     }
 ]
