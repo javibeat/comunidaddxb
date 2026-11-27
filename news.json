@@ -2,61 +2,13 @@
     {
         "id": 1,
         "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmxrZmU0aHAzR1VkYlZvV1I5SDQ2dkY0U0ZpUUQ2RnBfR0x6V3ZfMnZaLUZwSnJWb0JBRVptX08tOHhZVTN5WXZpODBkN25paUJ0M3NjYVNCQVJMX3NOdFh0VldMRVlIOGF1dUk5VzB5SDNHRXo2MC0tNFFiNXItQVh0TUw2aW8?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQek9naDBldjNjWFpNZnotWHEtZ2VUblRXMWZWUEZ3ZEpxVGo4YWZiVURnVlZudm9Jc09IamRPbzVKYUJBUjRlNUZJRENyaDRRTXU1WDF2U0lWSGpxaTkyUml0LUo3X2czT2dFTEhaRmExbVl4S0NIX0dJVjRXZGNDdFRja1VVTEJLWjROOXdpcGE?oc=5",
         "sourceIcon": "📰",
         "category": "noticias",
-        "title": "Italia concentra el 50% del mercado de superyates de Emiratos, según su comisionado comercial - www.wam.ae",
+        "title": "El Brent baja hasta los 96,19 dólares por barril - www.wam.ae",
         "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-26",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmxrZmU0aHAzR1VkYlZvV1I5SDQ2dkY0U0ZpUUQ2RnBfR0x6V3ZfMnZaLUZwSnJWb0JBRVptX08tOHhZVTN5WXZpODBkN25paUJ0M3NjYVNCQVJMX3NOdFh0VldMRVlIOGF1dUk5VzB5SDNHRXo2MC0tNFFiNXItQVh0TUw2aW8?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 2,
-        "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGc4d0hmbENtY0xCb0VxUTlyMDJSUnFacVljbkpXLVlWS1VQNktGUGVnX2FzaG96N3J1Q1hmNzNCWjU4OHJfcDU3Q0ROelNEQ2VlWXltTEFoR3kyVk5RQk1lclduY0NNRGhiODEwSnp4ZmFZZmJMNEc1TUVSc3d2YUJLMDZWOHcxV3p3SGVJYl8wd3dPVnFaaVJvYw?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Emiratos expresa su solidaridad con Turquía por los cinco muertos en un accidente de helicóptero militar - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-26",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGc4d0hmbENtY0xCb0VxUTlyMDJSUnFacVljbkpXLVlWS1VQNktGUGVnX2FzaG96N3J1Q1hmNzNCWjU4OHJfcDU3Q0ROelNEQ2VlWXltTEFoR3kyVk5RQk1lclduY0NNRGhiODEwSnp4ZmFZZmJMNEc1TUVSc3d2YUJLMDZWOHcxV3p3SGVJYl8wd3dPVnFaaVJvYw?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 3,
-        "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW14NlFnNXhROFQ1UC1PMG1WbDBCbE5yZTVQb0ZzemJOcmVlMFFVak4tYml0SnFkV3gza2ZNV2lPTWRFV3VxZmo5OENRbnN2bmdfVllIak9GZEZicmtpYkxZV1Y2LUFOdGxqdGtBRmlJSU5ETG9IUGxLMDdBRTdaenlveEI0MjdHLUdWRmI2bHZBRVRpa3dvYUxlR3Y?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Emiratos condena el intento de los hutíes de atacar varias zonas de Arabia Saudí - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-26",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW14NlFnNXhROFQ1UC1PMG1WbDBCbE5yZTVQb0ZzemJOcmVlMFFVak4tYml0SnFkV3gza2ZNV2lPTWRFV3VxZmo5OENRbnN2bmdfVllIak9GZEZicmtpYkxZV1Y2LUFOdGxqdGtBRmlJSU5ETG9IUGxLMDdBRTdaenlveEI0MjdHLUdWRmI2bHZBRVRpa3dvYUxlR3Y?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 4,
-        "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRWlwYTdkTGQ5VDVmeUt1akNXTkM4MFd6OFIxQ0JyMjNKQ1lkR25hMGhEN1BvMkZIWS1kWEhRLWtNUC1lejVSNWZqYWx2X0MyVjZEbEN3TTk3ZFBETDB1Z1FDWVdVbW5feUFubG9OUmZtV1VyM0xDUUpGTXl1eU8xb2Vva19CeGR2a3d1NVZKY0NXQQ?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Una delegación de la Media Luna Roja revisa la entrega de ayuda por valor de 50 millones de dírhams para Gaza - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-26",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRWlwYTdkTGQ5VDVmeUt1akNXTkM4MFd6OFIxQ0JyMjNKQ1lkR25hMGhEN1BvMkZIWS1kWEhRLWtNUC1lejVSNWZqYWx2X0MyVjZEbEN3TTk3ZFBETDB1Z1FDWVdVbW5feUFubG9OUmZtV1VyM0xDUUpGTXl1eU8xb2Vva19CeGR2a3d1NVZKY0NXQQ?oc=5",
-        "priority": "normal"
-    },
-    {
-        "id": 5,
-        "source": "www.wam.ae",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa083dEFjekVFaWp1NVJscGJYQmJFbTEyOW1wbGdVVFppZTI3VzR4MWdLX1NFVENybGNCUC03Sk9HSEg2T2ZFT3B3M3pZSW5YbW1CM2R3RGtIa296cEg1SUkzcWJxSENiY2EyTmJpcUF2eHpHZE11eHctbUs5M1Q1ZHp0V2VvZnNIbGhleF9B?oc=5",
-        "sourceIcon": "📰",
-        "category": "noticias",
-        "title": "Emiratos expresa su solidaridad con Egipto por las víctimas de dos accidentes de tráfico - www.wam.ae",
-        "summary": "Últimas noticias desde Emiratos Árabes Unidos.",
-        "date": "2026-11-26",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa083dEFjekVFaWp1NVJscGJYQmJFbTEyOW1wbGdVVFppZTI3VzR4MWdLX1NFVENybGNCUC03Sk9HSEg2T2ZFT3B3M3pZSW5YbW1CM2R3RGtIa296cEg1SUkzcWJxSENiY2EyTmJpcUF2eHpHZE11eHctbUs5M1Q1ZHp0V2VvZnNIbGhleF9B?oc=5",
+        "date": "2026-11-27",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQek9naDBldjNjWFpNZnotWHEtZ2VUblRXMWZWUEZ3ZEpxVGo4YWZiVURnVlZudm9Jc09IamRPbzVKYUJBUjRlNUZJRENyaDRRTXU1WDF2U0lWSGpxaTkyUml0LUo3X2czT2dFTEhaRmExbVl4S0NIX0dJVjRXZGNDdFRja1VVTEJLWjROOXdpcGE?oc=5",
         "priority": "normal"
     }
 ]
